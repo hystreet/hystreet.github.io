@@ -382,3 +382,46 @@ select {
   font-weight: normal;
   font-family: "Lato", Helvetica, Arial, sans-serif;
 }
+
+.Full-screen-video__body {
+  overflow: hidden;
+}
+
+.Full-screen-video {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1074; /* Must be top layer(above header)! */
+}
+
+.Full-screen-video iframe {
+  width: 100vw;
+  height: 100vh;
+}
+
+.Full-screen-video__close {
+  cursor: pointer;
+  position: absolute;
+  color: #FFFFFF;
+  font-size: 27px;
+  right: 10px;
+  top: 10px;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 50%;
+  background: #000000;
+  transition: background 0.3s;
+}
+
+@media only screen and (min-width: 1024px) {
+  .Full-screen-video__close {
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+  }
+}
