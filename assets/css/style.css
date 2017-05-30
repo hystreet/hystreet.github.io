@@ -216,7 +216,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-right: 15px;
 }
 
-.video-button {
+.video-button, .more-link {
   position: relative;
   top: 0;
   display: inline-flex;
@@ -235,12 +235,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 @media only screen and (min-width: 1024px) {
-  .video-button {
+  .video-button, .more-link {
     padding: 20px 50px;
   }
 }
 
-.video-button:hover {
+.video-button:hover, .more-link:hover {
   top: -3px;
   box-shadow: rgba(0,0,0,0.1) 0 3px 10px 2px;
   background: #FFFFFF;
@@ -487,32 +487,5 @@ select {
 }
 
 .more-link {
-  position: relative;
-  top: 0;
-  display: inline-flex;
-  align-items: center;
-  padding: 20px;
-  font-size: 20px;
-  text-transform: uppercase;
-  text-decoration: none;
-  font-weight: bold;
-  border-radius: 3px;
-  color: #22695B;
-  margin-left: auto;
-  margin-right: auto;
   background: #FFFFFF;
-  transition: all 0.2s;
-}
-
-@media only screen and (min-width: 1024px) {
-  .more-link {
-    padding: 20px 50px;
-  }
-}
-
-.more-link:hover {
-  top: -3px;
-  box-shadow: rgba(0,0,0,0.1) 0 3px 10px 2px;
-  background: #FFFFFF;
-  transition: all 0.2s;
 }
