@@ -56,6 +56,44 @@ html, body {
   }
 }
 
+.main-content--full-width {
+  width: 100% !important;
+}
+
+.page-content {
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 40px;
+  box-shadow: 0 6px 20px 0 rgba(0,0,0,0.2);
+  border-radius: 5px;
+  color: #333333;
+  background: #FFFFFF;
+}
+
+.page-content p:first-child {
+  margin-top: 0;
+}
+
+.page-content p:last-child {
+  margin-bottom: 0;
+}
+
+.page-content p {
+  line-height: 1.8;
+  font-size: 18px;
+  margin-bottom: 25px;
+}
+
+.page-content a {
+  color: #2DBBC8;
+  text-decoration: none;
+}
+
+.page-content a:hover {
+  text-decoration: underline;
+}
+
 .sub-content {
   display: block;
   width: 100%;
@@ -101,6 +139,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .logo {
+  display: block;
   text-indent: -999999px;
   width: 166px;
   height: 55px;
@@ -439,4 +478,21 @@ select {
 .phone-number .fa {
   font-size: 25px;
   margin-right: 10px;
+}
+
+.more-link {
+  text-transform: uppercase;
+  font-size: 25px;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-decoration: none;
+  display: inline-block;
+  padding-bottom: 5px;
+  border-bottom: rgba(255,255,255, 0.4) 2px solid;
+  transition: border-bottom 0.3s;
+}
+
+.more-link:hover {
+  border-bottom: rgba(255,255,255, 1) 2px solid;
+  transition: border-bottom 0.3s;
 }
