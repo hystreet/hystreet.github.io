@@ -64,11 +64,17 @@ html, body {
   max-width: 760px;
   margin-left: auto;
   margin-right: auto;
-  padding: 40px;
+  padding: 20px 15px;
   box-shadow: 0 6px 20px 0 rgba(0,0,0,0.2);
   border-radius: 5px;
   color: #333333;
   background: #FFFFFF;
+}
+
+@media only screen and (min-width: 650px) {
+  .page-content {
+    padding: 40px;
+  }
 }
 
 .page-content p:first-child {
@@ -481,18 +487,32 @@ select {
 }
 
 .more-link {
+  position: relative;
+  top: 0;
+  display: inline-flex;
+  align-items: center;
+  padding: 20px;
+  font-size: 20px;
   text-transform: uppercase;
-  font-size: 25px;
-  font-weight: bold;
-  color: #FFFFFF;
   text-decoration: none;
-  display: inline-block;
-  padding-bottom: 5px;
-  border-bottom: rgba(255,255,255, 0.4) 2px solid;
-  transition: border-bottom 0.3s;
+  font-weight: bold;
+  border-radius: 3px;
+  color: #22695B;
+  margin-left: auto;
+  margin-right: auto;
+  background: #FFFFFF;
+  transition: all 0.2s;
+}
+
+@media only screen and (min-width: 1024px) {
+  .more-link {
+    padding: 20px 50px;
+  }
 }
 
 .more-link:hover {
-  border-bottom: rgba(255,255,255, 1) 2px solid;
-  transition: border-bottom 0.3s;
+  top: -3px;
+  box-shadow: rgba(0,0,0,0.1) 0 3px 10px 2px;
+  background: #FFFFFF;
+  transition: all 0.2s;
 }
