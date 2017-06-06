@@ -87,6 +87,21 @@ members:
       </p>
       <p>Est unde inventore sed amet est in voluptas cum ipsa ut sunt minus. Nihil quia et omnis blanditiis eius suscipit quos repudiandae. Nihil quia et omnis blanditiis eius suscipit quos. Nihil quia et omnis blanditiis eius suscipit quos.</p>
     </div>
+   <div class='medium-6 large-6 columns'>
+      <ul class='bars'>
+        {% for bar in page.bars %}
+          <li>
+            <h4>
+              {{bar.title}}
+              <strong>{{bar.percent}}%</strong>
+            </h4>
+            <p class='highlighted' data-percent='{{bar.percent}}'></p>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
 
 
 
