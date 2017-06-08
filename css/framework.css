@@ -5623,11 +5623,10 @@ p aside {
 
 /* Default header styles */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT sans";
+  font-family: "Lato";
   font-weight: bold;
   font-style: normal;
   color: #333333;
-  text-rendering: optimizeLegibility;
   margin-top: 0.2rem;
   margin-bottom: 1rem;
   line-height: 1.4;
