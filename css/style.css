@@ -157,9 +157,8 @@ h1, h2, h3, h4 {
   margin-bottom: 0;
 }
 .special-title p {
-  font-family: "droid serif", georgia;
+  font-family: "lato";
   font-size: 1.125rem;
-  font-style: italic;
   color: #666666;
   letter-spacing: 1px;
 }
