@@ -724,3 +724,6 @@ ul.info i:hover {
   font-size: 0.875rem;
   color: #999999;
 }
+body {
+  font-family: "Lato" Helvetica, Arial, sans-serif;
+}
