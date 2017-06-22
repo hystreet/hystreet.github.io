@@ -1,16 +1,12 @@
-- title: Creative designs
-  icon: flash
+- title: Face to face, full service
+  icon: Users
   desc:
     Est aperiam ex sint maiores aliquam delectus minima rerum et natus rerum sit quae nostrum.
-- title: Responsive layout
-  icon: layout
+- title: Hybrid service
+  icon: newspaper
   desc:
     Est aperiam ex sint maiores aliquam delectus minima rerum et natus rerum sit quae nostrum.
-- title: Easy to customize
-  icon: paper-plane
-  desc:
-    Est aperiam ex sint maiores aliquam delectus minima rerum et natus rerum sit quae nostrum.
-- title: Great support
-  icon: chat
+- title: Fully online service
+  icon: network
   desc:
     Est aperiam ex sint maiores aliquam delectus minima rerum et natus rerum sit quae nostrum.
