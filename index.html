@@ -359,7 +359,7 @@ members:
 
 <div class='full'>
   <div class='row'>
-
+ {% for post in paginator.posts %}
   <div class='post'>
     <div class='info'>
       <h3>
@@ -374,7 +374,7 @@ members:
       <a class='button' href='{{post.url}}'>Read more</a>
     </div>
   </div>
-
+{% endfor %}
 </div>
 </div>
 
