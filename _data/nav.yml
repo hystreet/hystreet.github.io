@@ -3,9 +3,11 @@
   section_id: why-hystreet
   children:
     - name: Our Clients
-      path: #
+      path: why-hystreet/our-clients/
     - name: Our Partners
-      path: #
+      path: why-hystreet/our-partners/
+    - name: Testimonials
+      path: why-hystreet/testimonials/
 - name: Solutions
   path: solutions/
   section_id: solutions
@@ -21,9 +23,9 @@
   section_id: about
   children:
     - name: Meet The Team
-      path: #
+      path: about-us/meet-the-team/
     - name: Careers
-      path: #
+      path: about-us/careers/
 - name: Support
   path: support/
   section_id: support
@@ -31,11 +33,11 @@
     - name: FAQs
       path: support/faqs/
     - name: Training
-      path: #
-    - name: Get started
-      path: #
+      path: support/training/
+    - name: Getting started
+      path: support/getting-started/
     - name: Demo Videos
-      path: #
+      path: support/demo-videos/
 - name: Blog
   path: blog/
   section_id: blog
