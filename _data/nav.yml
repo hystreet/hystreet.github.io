@@ -4,7 +4,7 @@
 - name: Why Hystreet?
   path: /why-hystreet/
   section_id: why-hystreet
-    children:
+  children:
     - name: Our Clients
       path: #
     - name: Our Partners
@@ -12,7 +12,7 @@
 - name: Solutions
   path: /solutions/
   section_id: solutions
-    children:
+  children:
     - name: Hybrid Service
       path: /solutions/hybrid-service/
     - name: Online Service
@@ -22,7 +22,7 @@
 - name: About
   path: /about-us/
   section_id: about
-    children:
+  children:
     - name: Meet The Team
       path: #
     - name: Careers
