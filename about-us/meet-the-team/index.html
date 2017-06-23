@@ -122,13 +122,6 @@ Praesent non lacinia eros. Vivamus tempor lacus ac tortor egestas mattis. Duis e
             <p>
               {{member.desc}}
             </p>
-            <div class='socials'>
-              {% for social in member.socials %}
-                <a href='{{social.link}}'>
-                  <i class='icon-{{social.name}} {{social.color}}'></i>
-                </a>
-              {% endfor %}
-            </div>
           </div>
         </div>
       {% endfor %}
