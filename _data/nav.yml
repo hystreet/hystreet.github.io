@@ -1,6 +1,3 @@
-- name: Home
-  path: /
-  section_id: home
 - name: Why Hystreet?
   path: /why-hystreet/
   section_id: why-hystreet
