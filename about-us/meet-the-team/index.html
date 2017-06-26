@@ -75,7 +75,6 @@ Praesent non lacinia eros. Vivamus tempor lacus ac tortor egestas mattis. Duis e
   <div class='full no-padding'>
     <div class='row'>
       {% for member in page.members %}
-        {% if forloop.first %}
         <div class='medium-3 large-3 columns'>
           <div class='member centered-text {{active_class}}'>
             <img src='{{site.url}}/images/{{member.image}}'>
