@@ -681,9 +681,9 @@ ul.info i:hover {
   border: 1px solid #00b991;
 }
 .timestamp .month {
-  background: #00b991;
+  background: #0fafd4;
   color: white;
-  border-bottom: 1px solid #00b991;
+  border-bottom: 1px solid #0fafd4;
   display: block;
   padding: 5px 0;
 }
