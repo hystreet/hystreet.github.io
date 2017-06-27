@@ -194,8 +194,8 @@ h1, h2, h3, h4 {
 
 .icon-text-boxed i {
   font-size: 88px;
-  color: #00b991;
-  border: 1px solid #00b991;
+  color: #0fafd4;
+  border: 1px solid #0fafd4;
   padding: 35px 0;
   display: block;
   width: 88%;
@@ -207,7 +207,7 @@ h1, h2, h3, h4 {
 }
 
 .icon-text-boxed:hover i {
-  background: #00b991;
+  background: #0fafd4;
   color: white;
 }
 
