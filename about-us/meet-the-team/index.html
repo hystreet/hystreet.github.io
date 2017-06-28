@@ -100,11 +100,6 @@ Praesent non lacinia eros. Vivamus tempor lacus ac tortor egestas mattis. Duis e
 
     <div class='row'>
       {% for member in page.members %}
-        {% if forloop.first %}
-          {% assign active_class = "active" %}
-        {% else %}
-          {% assign active_class = "" %}
-        {% endif %}
         <div class='medium-3 large-3 columns'>
           <div class='member centered-text {{active_class}}'>
             <img src='{{site.url}}/images/{{member.image}}'>
@@ -115,7 +110,6 @@ Praesent non lacinia eros. Vivamus tempor lacus ac tortor egestas mattis. Duis e
             </p>
           </div>
         </div>
-      {% endfor %}
     </div>
 
     <div class='three spacing'></div>
