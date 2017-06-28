@@ -95,23 +95,6 @@ Praesent non lacinia eros. Vivamus tempor lacus ac tortor egestas mattis. Duis e
       {% endfor %}
     </div>
 
-    
-    <div class='three spacing'></div>
-
-    <div class='row'>
-      {% for member in page.members %}
-        <div class='medium-3 large-3 columns'>
-          <div class='member centered-text {{active_class}}'>
-            <img src='{{site.url}}/images/{{member.image}}'>
-            <h3>{{member.name}}</h3>
-            <p class='position'>{{member.position}}</p>
-            <p>
-              {{member.desc}}
-            </p>
-          </div>
-        </div>
-    </div>
-
     <div class='three spacing'></div>
     <div class='three spacing'></div>
   </div>
