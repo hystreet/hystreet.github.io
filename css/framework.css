@@ -4820,7 +4820,7 @@ table tfoot tr td {
   }
 }
 meta.foundation-mq-topbar {
-  font-family: "/only screen and (min-width:40.063em)/";
+  font-family: "/only screen/";
   width: 40.063em;
 }
 
