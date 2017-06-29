@@ -1,14 +1,14 @@
 - image: slide blue gradient.png
   desc_location: left
   desc:
-    <h2>Where Technology Meets Tradition.</h2>
-    <p>The easy and cost-effective way for high street agents to offer their own online service.</p>
-    <div class='two spacing'></div>
-    <a class='button'>View Features</a>
+  <h2>Where Technology Meets Tradition.</h2>
+  <p>The easy and cost-effective way for high street agents to offer their own online service.</p>
+  <div class='two spacing'></div>
+  <a class='button' style="background: #FFFFFF;">Book an online demo</a>
 - image: slide blue gradient.png
   desc_location: left
   desc:
-    <h2>Where Technology Meets Tradition.</h2>
-    <p>The easy and cost-effective way for high street agents to offer their own online service.</p>
-    <div class="two spacing"></div>
-    <a class="button" style="background: #FFFFFF;">Book an online demo</a>
+  <h2>Where Technology Meets Tradition.</h2>
+  <p>The easy and cost-effective way for high street agents to offer their own online service.</p>
+  <div class="two spacing"></div>
+  <a class="button" style="background: #FFFFFF;">Book an online demo</a>
