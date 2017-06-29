@@ -5,3 +5,10 @@
     <p>The easy and cost-effective way for high street agents to offer their own online service.</p>
     <div class='two spacing'></div>
     <a class='button'>View Features</a>
+- image: slide blue gradient.png
+  desc_location: left
+  desc:
+    <h2>This is a test</h2>
+    <p>This is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a test</p>
+    <div class='two spacing'></div>
+    <a class='button'>View Features</a>
