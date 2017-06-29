@@ -5316,8 +5316,8 @@ meta.foundation-mq-topbar {
     background: #333333;
   }
   .top-bar-section .dropdown li:not(.has-form) a:not(.button) {
-    color: #eeeeee;
-    background: #333333;
+    color: #666;
+    background: #FFF;
   }
   .top-bar-section .dropdown li:not(.has-form):hover > a:not(.button) {
     color: #666666;
