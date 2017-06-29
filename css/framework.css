@@ -5189,7 +5189,7 @@ meta.foundation-mq-topbar {
 
 @media only screen and (min-width: 40.063em) {
   .top-bar {
-    background: white;
+    background: rgb(87, 117, 206);
     *zoom: 1;
     overflow: visible;
   }
