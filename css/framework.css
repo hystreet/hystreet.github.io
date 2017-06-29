@@ -1937,7 +1937,7 @@ button, .button {
   transition: background-color 300ms ease-out;
 }
 button:hover, button:focus, .button:hover, .button:focus {
-  background-color: #eda703;
+  background-color: #FFF;
 }
 button:hover, button:focus, .button:hover, .button:focus {
   color: #333333;
