@@ -70,11 +70,12 @@ h1, h2, h3, h4 {
   letter-spacing: 3px;
   font-size: 14px;
   padding: 13px 30px 10px;
-  background: #0fafd4;
+  background: #FFF;
+  color: #666;
 }
 
 .button:hover {
-  background-color: #0fafd4;
+  color: #333;
 }
 
 .button.white {
