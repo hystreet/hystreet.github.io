@@ -1,4 +1,4 @@
-- image: slide-1.jpg
+- image: slide blue gradient.png
   desc_location: left
   desc:
     <h2>This is squarebox</h2>
@@ -7,21 +7,21 @@
     <a class='button boxed'>View Features</a>
     <div class='two spacing'></div>
     <a class='button boxed'>Learn More</a>
-- image: slide-3.jpg
+- image: slide blue gradient.png
   desc_location: left
   desc:
     <h2>Responsive Design</h2>
     <p>Let users access the theme with all devices</p>
     <div class='two spacing'></div>
     <a class='button boxed'>Learn More</a>
-- image: slide-4.jpg
+- image: slide blue gradient.png
   desc_location: right
   desc:
     <h2>Very Easy to Use</h2>
     <p>Almost every element could be customized</p>
     <div class='two spacing'></div>
     <a class='button boxed'>Learn More</a>
-- image: slide-5.jpg
+- image: slide blue gradient.png
   desc_location: center
   desc:
     <h2>A Beautiful &amp; Creative Theme</h2>
