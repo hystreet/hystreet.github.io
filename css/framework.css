@@ -5090,7 +5090,6 @@ meta.foundation-mq-topbar {
   color: #333333;
 }
 .top-bar-section ul li:hover:not(.has-form) > a {
-  background: #f2f2f2;
   color: #666666;
 }
 .top-bar-section ul li.active > a {
