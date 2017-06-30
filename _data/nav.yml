@@ -8,7 +8,7 @@
       path: why-hystreet/our-partners/
     - name: Testimonials
       path: why-hystreet/testimonials/
-- name: Solutions
+- name: Features and Pricing
   path: solutions/
   section_id: solutions
   children:
