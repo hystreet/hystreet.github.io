@@ -5321,6 +5321,7 @@ meta.foundation-mq-topbar {
   .top-bar-section .dropdown li:not(.has-form):hover > a:not(.button) {
     color: #666666;
     background: #f2f2f2;
+    transition: background 300ms ease-out;
   }
   .top-bar-section .dropdown li label {
     white-space: nowrap;
