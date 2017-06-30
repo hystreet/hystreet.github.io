@@ -45,6 +45,10 @@ h1, h2, h3, h4 {
   background: #e8e8e4;
 }
 
+.grey {
+  background: #333333;
+}
+
 .spacing {
   height: 20px;
 }
