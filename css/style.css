@@ -142,8 +142,9 @@ h1, h2, h3, h4 {
 }
 
 .top-bar-section .dropdown li:not(.has-form):hover > a:not(.button) {
-  background: #FFFFFF;
-  color: #333333;
+  background: #0fafd4;
+  color: #FFFFFF;
+  transition: background-color 300ms ease-out
 }
 
 /*special title */
