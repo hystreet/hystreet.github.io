@@ -4,8 +4,6 @@
   children:
     - name: Our Clients
       path: why-hystreet/our-clients/
-    - name: Our Partners
-      path: why-hystreet/our-partners/
     - name: Testimonials
       path: why-hystreet/testimonials/
 - name: Solutions
@@ -26,21 +24,3 @@
       path: about-us/meet-the-team/
     - name: Careers
       path: about-us/careers/
-- name: Support
-  path: support/
-  section_id: support
-  children:
-    - name: FAQs
-      path: support/faqs/
-    - name: Training
-      path: support/training/
-    - name: Getting started
-      path: support/getting-started/
-    - name: Demo Videos
-      path: support/demo-videos/
-- name: Blog
-  path: blog/
-  section_id: blog
-  children:
-    - name: Resources
-      path: #
