@@ -5243,7 +5243,7 @@ meta.foundation-mq-topbar {
     color: #333;
   }
   .top-bar-section li:not(.has-form) a:not(.button) {
-    padding: 0 20px;
+    padding: 0 14px;
     line-height: 100px;
     background: #0fafd4;
   }
