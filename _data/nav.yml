@@ -1,26 +1,15 @@
 - name: Why Hystreet?
   path: why-hystreet/
   section_id: why-hystreet
-  children:
-    - name: Our Clients
-      path: why-hystreet/our-clients/
-    - name: Testimonials
-      path: why-hystreet/testimonials/
-- name: Solutions
+- name: Features and Pricing
   path: solutions/
   section_id: solutions
-  children:
-    - name: Hybrid Service
-      path: solutions/hybrid-service/
-    - name: Online Service
-      path: solutions/online-service/
-    - name: Full Service
-      path: solutions/full-service/
-- name: About
-  path: about-us/
-  section_id: about
-  children:
-    - name: Meet The Team
-      path: about-us/meet-the-team/
-    - name: Careers
-      path: about-us/careers/
+- name: Getting started
+  path: support/getting-started/
+  section_id: getting-started
+- name: Support
+  path: support/
+  section_id: support
+- name: Careers
+  path: about-us/careers/
+  section_id: careers
