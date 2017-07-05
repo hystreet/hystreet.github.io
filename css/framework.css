@@ -4952,7 +4952,7 @@ meta.foundation-mq-topbar {
   background: transparent;
 }
 .top-bar.expanded .title-area {
-  background: white;
+  background: #0fafd4;
 }
 .top-bar.expanded .toggle-topbar a {
   color: #888888;
