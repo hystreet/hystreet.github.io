@@ -78,6 +78,20 @@ h1, h2, h3, h4 {
   border-radius: 100px;
 }
 
+.button-whys {
+  text-transform: uppercase;
+  font-size: 14px;
+  padding: 13px 30px 10px;
+  background: #0fafd4;
+  color: #FFF;
+  border-radius: 100px;
+}
+
+.button-whys:hover {
+  background: #f6f6f6
+  color: #666
+}
+
 .button:hover {
   color: #FFF;
 }
