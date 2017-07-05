@@ -478,8 +478,11 @@ textarea {
     font-size: 18px;
     position: relative;
     top: -50px;
+    margin-bottom:-2.75rem;
   }
 }
+
+
 
 .testimonials .orbit-container .orbit-bullets-container {
   position: static;
