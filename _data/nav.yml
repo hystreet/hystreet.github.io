@@ -2,8 +2,8 @@
   path: why-hystreet/
   section_id: why-hystreet
 - name: Features and Pricing
-  path: solutions/
-  section_id: solutions
+  path: features-pricing/
+  section_id: features-pricing
 - name: Getting started
   path: support/getting-started/
   section_id: getting-started
