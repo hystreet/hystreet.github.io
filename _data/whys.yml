@@ -1,18 +1,12 @@
 - title: Face to face, full service
   icon: users
   desc:
-    <p>Manage your customers sale for them through Hystreet's staff side, carry out viewings, and take care of any negotiations.</p>
-    <div class='spacing'></div>
-    <a class="button-whys" href="/features-pricing/full-service/">Find out more</a>
+    Manage your customers sale for them through Hystreet's staff side, carry out viewings, and take care of any negotiations.
 - title: Hybrid service
   icon: newspaper
   desc:
-    <p>Give your customers the convenience of their own 24/7 platform, alongside the expertise and guidance of your team.</p>
-    <div class='spacing'></div>
-    <a class="button-whys" href="/features-pricing/hybrid-service/">Find out more</a>
+    Give your customers the convenience of their own 24/7 platform, alongside the expertise and guidance of your team.
 - title: Fully online service
   icon: network
   desc:
-    <p>Let your customers manage their sale through their online platform, allowing them to progress their own sale how they want to.</p>
-    <div class='spacing'></div>
-    <a class="button-whys" href="/features-pricing/online-service/">Find out more</a>
+    Let your customers manage their sale through their online platform, allowing them to progress their own sale how they want to.
