@@ -1,14 +1,15 @@
 <div class='full dark-grey no-padding'>
   <div class='spacing'></div>
   <div class='row'>
-       <div class='special-title centered-text'>
-          <p>Trusted by</p>
+       <div class="special-title centered-text">
+          <p style="color: #FFF;font-size: 1.375rem;">Trusted by</p>
        </div>
+  <div class="spacing"></div>
     {% for client in site.data.clients %}
       <div class='small-6 large-3 columns'>
         <img style="height: 80px;" src='{{site.url}}/images/{{client.image}}'>
       </div>
     {% endfor %}
   </div>
-  <div class='spacing'></div>
+  <div class='two.spacing'></div>
 </div>
