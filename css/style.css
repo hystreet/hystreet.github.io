@@ -757,8 +757,19 @@ body {
 }
 
 /* banner arrow */
+
 .banner__arrow:before {
     content: url(/images/angle-arrow-down.svg);
+}
+
+.banner:not(.banner--no-arrow):before {
+    border-right: 24px solid transparent;
+    left: 0;
+}
+
+.banner:not(.banner--no-arrow):after {
+    border-left: 24px solid transparent;
+    right: 0;
 }
 
 .banner:not(.banner--no-arrow):before, .banner:not(.banner--no-arrow):after {
