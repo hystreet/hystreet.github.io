@@ -759,7 +759,7 @@ body {
 /* banner arrow */
 
 .banner__arrow:before {
-    content: url(/images/angle-arrow-down.svg);
+    content: url(/images/down-arrow-white.svg);
 }
 
 .banner:not(.banner--no-arrow):before {
