@@ -439,6 +439,9 @@ textarea {
   color: #eeeeee;
   font-size: 48px;
 }
+.footer p {
+  color: #FFFFFF;
+}
 .footer p.copyright {
   padding: 40px 0 0;
   color: #FFFFFF;
