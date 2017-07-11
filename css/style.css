@@ -757,6 +757,10 @@ body {
 }
 
 /* banner arrow */
+.banner__arrow:before {
+    content: url(/images/angle-arrow-down.svg);
+}
+
 .banner:not(.banner--no-arrow):before, .banner:not(.banner--no-arrow):after {
     position: absolute;
     bottom: 0px;
