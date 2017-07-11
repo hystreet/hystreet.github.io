@@ -4881,8 +4881,6 @@ meta.foundation-mq-topbar {
   font-size: 0.75rem;
 }
 .top-bar .button, .top-bar button {
-  padding-top: .45rem;
-  padding-bottom: .35rem;
   margin-bottom: 0;
   font-size: 0.75rem;
 }
