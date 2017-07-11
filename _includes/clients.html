@@ -1,11 +1,11 @@
 <div class='full dark-grey no-padding'>
   <div class='spacing'></div>
   <div class='row'>
+       <div class='special-title centered-text'>
+          <p>Trusted by</p>
+       </div>
     {% for client in site.data.clients %}
       <div class='small-6 large-3 columns'>
-        <div class='special-title centered-text'>
-          <p>Trusted by</p>
-        </div>
         <img style="height: 80px;" src='{{site.url}}/images/{{client.image}}'>
       </div>
     {% endfor %}
