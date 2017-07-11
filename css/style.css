@@ -755,3 +755,29 @@ ul.info i:hover {
 body {
   font-family: "Lato" Helvetica, Arial, sans-serif;
 }
+
+/* banner arrow */
+.banner:not(.banner--no-arrow):before, .banner:not(.banner--no-arrow):after {
+    position: absolute;
+    bottom: 0px;
+    content: "";
+    display: block;
+    width: calc(50% - 26px);
+    z-index: 2;
+    border-bottom: 24px solid #fff;
+}
+
+.banner__arrow {
+    position: absolute;
+    bottom: 0px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+    padding: 10px;
+    z-index: 3;
+    font-size: 0;
+    color: transparent;
+}
