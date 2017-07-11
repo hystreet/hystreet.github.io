@@ -777,9 +777,9 @@ body {
     bottom: 0px;
     content: "";
     display: block;
-    width: calc(50% - 26px);
+    width: calc(52% - 26px);
     z-index: 2;
-    border-bottom: 24px solid #fff;
+    border-bottom: 24px solid #f6f6f6;
 }
 
 .banner__arrow {
