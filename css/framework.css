@@ -4897,7 +4897,7 @@ meta.foundation-mq-topbar {
   margin: 0;
   font-size: 16px;
 }
-.top-bar .name h1 {
+.top-bar .name span {
   line-height: 100px;
   font-size: 1.875rem;
   margin: 0;
