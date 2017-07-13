@@ -4894,7 +4894,7 @@ meta.foundation-mq-topbar {
 }
 .top-bar .name {
   height: 100px;
-  margin: 0;
+  margin-left: 10px;
   font-size: 16px;
 }
 .top-bar .name span {
