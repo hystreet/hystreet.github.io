@@ -10,6 +10,6 @@
 - name: Help & Support
   path: support/
   section_id: support
-- name: Careers
-  path: about-us/careers/
-  section_id: careers
+- name: About Us
+  path: about-us/
+  section_id: about us
