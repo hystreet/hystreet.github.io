@@ -189,6 +189,14 @@ h4 {
   display: block;
   text-align: center;
 }
+p i {
+  font-size: 25px;
+  color: #0fafd4;
+  margin-bottom: 15px;
+  margin-top: 50px;
+  display: block;
+  text-align: center;
+}
 .special-title h2 {
   text-transform: uppercase;
   margin-bottom: 0;
