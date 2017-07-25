@@ -210,6 +210,15 @@ p i {
   letter-spacing: 1px;
   max-width: 75%;
 }
+.contact-text {
+    font-family: "lato";
+    font-size: 1.125rem;
+    color: #666666;
+    letter-spacing: 1px;
+    max-width: 75%;
+    margin-bottom: 10px;
+    margin: auto;
+}
 .special-title p.shortline {
   width: 100px;
   height: 5px;
