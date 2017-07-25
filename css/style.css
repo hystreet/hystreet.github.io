@@ -74,6 +74,7 @@ h4 {
 
 .centered-text p {
   margin: 10px auto;
+  text-align: justify;
 }
 
 .layout-text {
