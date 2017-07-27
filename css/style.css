@@ -424,6 +424,9 @@ p.quote {
   font-size: 18px;
   margin-bottom: 30px;
 }
+p.author {
+  text-align: right;
+}
 
 p.nav-control {
   margin: 80px 0 20px;
