@@ -245,9 +245,14 @@ p i {
 .icon-text i.yellow {
   background: #0fafd4;
 }
-.icon-text h3,
+.icon-text h3 {
+  margin-left: 60px;
+  text-align: left;
+}
+
 .icon-text p {
   margin-left: 60px;
+  text-align: justify;
 }
 
 .icon-text-boxed i {
