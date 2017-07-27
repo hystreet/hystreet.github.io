@@ -891,11 +891,14 @@ body {
 .hero .banner__arrow {
   position: absolute;
   transform: translateY(50%) translateX(-50%);
+  width: 40px;
+  height: 40px;
 }
 
 .hero .banner__arrow::before {
   position: relative;
   z-index: 2;
+  top: 10px;
 }
 
 .hero .banner__arrow::after {
