@@ -4,11 +4,6 @@
 - name: Features & Benefits
   path: features-benefits/
   section_id: features-benefits
-  children:
-    - name: Benefits for Agents
-      path: features-benefits#agents
-    - name: Benefits for Customers
-      path: features-benefits#customers
 - name: Getting started
   path: support/getting-started/
   section_id: getting-started
