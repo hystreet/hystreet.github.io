@@ -255,6 +255,7 @@ p i {
   text-align: center;
   color: #0fafd4;
   border: 1px solid #0fafd4;
+  border-radius: 7.5px;
   padding: 35px 0;
   display: block;
   width: 88%;
