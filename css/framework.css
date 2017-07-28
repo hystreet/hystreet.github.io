@@ -6533,6 +6533,5 @@ th.hide-for-touch {
 
 .floating {
     height: 100px;
-    display: table-cell;
-    vertical-align: middle;
+    text-align: center;
 }
