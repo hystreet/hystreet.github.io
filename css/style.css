@@ -94,6 +94,15 @@ h4 {
   border-radius: 7.5px;
 }
 
+.button-blue {
+  text-transform: uppercase;
+  font-size: 14px;
+  padding: 13px 16px 10px;
+  background: #0fafd4;
+  color: #fff;
+  border-radius: 7.5px;
+}
+
 .button-whys {
   text-transform: uppercase;
   font-size: 14px;
