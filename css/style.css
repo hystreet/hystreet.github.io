@@ -235,6 +235,13 @@ p i {
   max-width: 75%;
   padding-bottom:12px;
 }
+.special-title-full {
+  font-family: "lato";
+  font-size: 1.125rem;
+  color: #666666;
+  letter-spacing: 1px;
+  padding-bottom:12px;
+}
 .special-title ul {
   font-family: "lato";
   font-size: 1.125rem;
