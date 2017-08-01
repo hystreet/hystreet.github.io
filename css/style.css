@@ -445,11 +445,11 @@ p i {
   background-color: rgba(252, 191, 49, 0.8);
 }
 .socials i.grey {
-  color: #cccccc;
-  background: #363636;
+  color: #FFF;
+  background: #e63375;
 }
 .socials i.grey:hover {
-  background-color: rgba(54, 54, 54, 0.6);
+  background-color: #97224d;
 }
 
 /*testimonials */
