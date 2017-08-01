@@ -132,7 +132,8 @@ h4 {
 }
 
 .button:hover {
-  color: #666;
+    color: #FFF;
+    background: #97224d;
 }
 
 .button.white {
