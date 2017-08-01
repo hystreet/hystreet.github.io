@@ -227,6 +227,7 @@ p i {
   color: #666666;
   letter-spacing: 1px;
   max-width: 75%;
+  padding-bottom:12px;
 }
 .special-title ul {
   font-family: "lato";
