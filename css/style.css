@@ -874,6 +874,16 @@ body {
   font-family: "Lato" Helvetica, Arial, sans-serif;
 }
 
+.p-whys {
+  font-family: "lato";
+  font-size: 1.125rem;
+  color: #666666;
+  letter-spacing: 1.3px;
+  max-width: 100%;
+  padding-bottom:12px;
+  text-align: center;
+}
+
 /* banner arrow */
 
 .banner__arrow:before {
