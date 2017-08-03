@@ -453,10 +453,10 @@ p i {
 }
 .socials i.grey {
   color: #FFF;
-  background: #e63375;
+  background: #0fafd4;
 }
 .socials i.grey:hover {
-  background-color: #97224d;
+  background-color: #e63375;
 }
 
 /*testimonials */
