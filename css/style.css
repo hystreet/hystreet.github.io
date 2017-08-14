@@ -990,3 +990,9 @@ body {
     #4484cf 100%
   );
 }
+
+.video-button__icon {
+  width: 16px;
+  height: 16px;
+  margin-left: 15px;
+}
