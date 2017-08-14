@@ -86,14 +86,18 @@ h4 {
   text-align: justify;
 }
 
+.centered-text ul {
+  margin: 10px auto;
+  text-align: justify;
+}
+
 .centered-text-actual p {
   margin: 10px auto;
   text-align: center;
 }
 
-.centered-text ul {
-  margin: 10px auto;
-  text-align: justify;
+.centered-text-actual h1, h2, h3, h4 {
+  text-align: center;
 }
 
 .layout-text {
