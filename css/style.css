@@ -232,7 +232,7 @@ p i {
   text-align: center;
 }
 .special-title h2 {
-  text-transform: uppercase;
+  text-transform: none;
   margin-bottom: 0;
   margin-top: 50px;
 }
