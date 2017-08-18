@@ -349,7 +349,7 @@ p i {
 /*call-to-action */
 .call-to-action p {
   font-size: 1.375rem;
-  font-family: "lato";
+  font-family: "roboto", sans-serif;
   margin-bottom: 0;
 }
 
@@ -872,11 +872,11 @@ ul.info i:hover {
   color: #999999;
 }
 body {
-  font-family: "Lato" Helvetica, Arial, sans-serif;
+  font-family: "Roboto" Helvetica, Arial, sans-serif;
 }
 
 .p-whys {
-  font-family: "lato";
+  font-family: "roboto", sans-serif;
   font-size: 1.125rem;
   color: #666666;
   letter-spacing: 1.3px;
