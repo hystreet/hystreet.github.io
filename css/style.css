@@ -939,6 +939,7 @@ body {
 
 .hero {
   position: relative;
+  height: 80%
   background: #0fafd4;
   background: -webkit-linear-gradient(#0fafd4, #4484cf);
   background: -o-linear-gradient(#0fafd4, #4484cf);
