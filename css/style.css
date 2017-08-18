@@ -234,30 +234,28 @@ p i {
   margin-top: 50px;
 }
 .special-title p {
-  font-family: "lato";
+  font-family: "roboto", sans-serif;
   font-size: 1.125rem;
   color: #666666;
   max-width: 75%;
   padding-bottom:12px;
 }
 .special-title-full {
-  font-family: "lato";
+  font-family: "roboto", sans-serif;
   font-size: 1.125rem;
   color: #666666;
   padding-bottom:12px;
 }
 .special-title ul {
-  font-family: "lato";
+  font-family: "roboto", sans-serif;
   font-size: 1.125rem;
   color: #666666;
-  letter-spacing: 1px;
   max-width: 75%;
 }
 .contact-text {
-    font-family: "lato";
+    font-family: "roboto", sans-serif;
     font-size: 1.125rem;
     color: #666666;
-    letter-spacing: 1px;
     max-width: 75%;
     margin-bottom: 10px;
     margin: auto;
