@@ -466,7 +466,7 @@ p i {
 p.quote {
   border: 1px solid rgba(255, 255, 255, 0.4);
   padding: 20px 50px;
-  font-family: "droid serif", georgia;
+  font-family: "roboto", sans-serif;
   font-style: italic;
   font-size: 18px;
   margin-bottom: 30px;
