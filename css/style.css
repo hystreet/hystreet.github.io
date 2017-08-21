@@ -311,6 +311,18 @@ p i {
   transition: color 0.2s linear;
 }
 
+.icon-text-boxed img {
+  font-size: 88px;
+  text-align: center;
+  color: #0fafd4;
+  border: 1px solid #0fafd4;
+  border-radius: 7.5px;
+  padding: 35px 0;
+  display: block;
+  max-width: 112px;
+  margin: 0 auto 35px;
+}
+
 .icon-text-boxed:hover i {
   background: #0fafd4;
   color: white;
