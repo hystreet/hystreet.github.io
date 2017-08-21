@@ -132,7 +132,7 @@ h4 {
   border-radius: 100px;
 }
 
-.button-whys:hover {
+.button-:hover {
   background: #f6f6f6;
   color: #666;
 }
@@ -997,4 +997,8 @@ body {
   width: 20px;
   height: 20px;
   margin-left: 15px;
+}
+
+.whys-image {
+  max-width: 112px;
 }
