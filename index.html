@@ -91,30 +91,72 @@ content_type: 'home'
 {% include demo-slip.html %}
 
 
-<div class='full white'>
-  <div class='row'>
-    <div class='special-title centered-text'>
+<div class="full whys-bg">
+  <div class="row">
+    <div class="special-title centered-text">
+      <i class="icon-map"></i>
       <h2>Why Choose Hystreet?</h2>
       <p>Hystreet is a revolutionary product that offers a true 24/7 online service to your customers.</p>
-      <p class='shortline'></p>
+      <p class="shortline"></p>
     </div>
-    <div class='two spacing'></div>
+    <div class="two spacing"></div>
   </div>
 
-  {% for row in page.services %}
+  
     <div class="row">
-      {% for service in row %}
-        <div class='medium-4 large-4 columns icon-text'>
-          <i class='icon-{{service.icon}} {{service.color}}'></i>
-          <h3>{{service.title}}</h3>
-          <p>{{service.desc}}</p>
+      
+        <div class="medium-4 large-3 columns icon-text" style="
+">
+          <i class="icon-newspaper yellow"></i>
+          <h3>White labelled for your brand</h3>
+          <p>Use your own logo, brand, colours, website, and domain to provide an online service that is truly yours.</p>
         </div>
-      {% endfor %}
-    </div>
-    {% unless forloop.last %}
-      <div class="spacing"></div>
-    {% endunless %}
-  {% endfor %}
+      
+        <div class="medium-4 large-6 columns icon-text">
+		<div class="spacing"></div>
+        </div>
+      
+        <div class="medium-4 large-3 columns icon-text">
+          <i class="icon-monitor yellow"></i>
+          <h3>Standalone software</h3>
+          <p>No need to download and install any software packages or manage confusing updates - Hystreet is managed over the web, leaving you free to focus on your service.</p>
+        </div>
+      
+        <div class="medium-4 large-3 columns icon-text">
+          <i class="icon-user yellow"></i>
+          <h3>Never lose to an online agent again</h3>
+          <p>With a service and platform better than any online agent, vendors will have no reason to choose an online agent over their trusted local agent with a cutting-edge online platform.</p>
+        </div>
+      
+        <div class="medium-4 large-6 columns icon-text">
+		<div class="spacing"></div>
+        </div>
+      
+        <div class="medium-4 large-3 columns icon-text">
+          <i class="icon-thumbs-up yellow"></i>
+          <h3>Easy to use</h3>
+          <p>Developed by estate agents, for estate agents. Hystreet is designed to be simple to use for agents, vendors, and buyers, at every stage.</p>
+        </div>
+      
+        <div class="medium-4 large-3 columns icon-text">
+          <i class="icon-search yellow"></i>
+          <h3>Complete audit trail</h3>
+          <p>Keep track of everything that happens with your sale, Hystreet keeps a full log of all of the actions.</p>
+        </div>
+      
+        <div class="medium-4 large-6 columns icon-text">
+		<div class="spacing"></div>
+        </div>
+      
+        <div class="medium-4 large-3 columns icon-text">
+          <i class="icon-logout yellow"></i>
+          <h3>No need to change CRM</h3>
+          <p>Hystreet connects with your website at a few key points, making sure it can integrate with any existing website or CRM.</p>
+        </div>
+  
+ </div>
+    
+  
 </div>
 
 {% include testimonials.html bg="bg-2" %}
