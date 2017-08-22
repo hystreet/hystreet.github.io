@@ -32,6 +32,12 @@ h4 {
   background-size: cover;
 }
 
+@media only screen  and (max-device-width :700px) {
+.whys-bg {
+    background:none;
+  }
+}
+
 .whys-bg {
     background: url(/images/whys-bg-100.jpg) no-repeat center;
     background-position-y: 300px;
