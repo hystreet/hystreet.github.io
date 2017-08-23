@@ -32,7 +32,7 @@ h4 {
   background-size: cover;
 }
 
-@media only screen  and (max-device-width :700px) {
+@media screen and (max-device-width :700px) {
 .whys-bg {
     background:none;
   }
