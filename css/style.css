@@ -40,8 +40,8 @@ h4 {
 
 .whys-bg {
     background: url(/images/whys-bg-100.jpg) no-repeat center;
-    background-position-y: 300px;
-    background-size: 100% auto;
+    background-position-y: 60%;
+    background-size: 85% auto;
     padding-bottom: 200px;
 }
 
