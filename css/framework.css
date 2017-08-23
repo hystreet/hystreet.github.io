@@ -6535,3 +6535,7 @@ th.hide-for-touch {
     text-align: center;
     padding: 0px 14px;
 }
+
+.video-links {
+    font-size: 1.25rem;
+}
