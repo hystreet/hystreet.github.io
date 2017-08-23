@@ -1041,3 +1041,15 @@ body {
 .fb-icon {
   max-height: 100px;
 }
+.contact-container {
+    display: flex;
+    justify-content: center;
+}
+
+.contact-item {
+    color: #e63375;
+}
+
+.contact-item a {
+    display: block;
+}
