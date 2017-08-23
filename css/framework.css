@@ -152,7 +152,7 @@ select {
 }
 
 .quote-marks::after {
-    content: open-quote;
+    content: close-quote;
     display: table;
     font-size: 180px;
     font-family: none;
