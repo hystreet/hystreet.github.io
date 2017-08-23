@@ -38,8 +38,13 @@ h4 {
   }
 }
 
+@media screen and (min-width: 700px) {
 .whys-bg {
-    background: url(/images/whys-bg-100.jpg) no-repeat center;
+    background:url(/images/whys-bg-100.jpg) no-repeat center;;
+  }
+}
+
+.whys-bg {
     background-position-y: 60%;
     background-size: 85% auto;
     padding-bottom: 200px;
