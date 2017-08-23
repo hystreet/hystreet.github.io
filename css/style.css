@@ -989,19 +989,16 @@ body {
   z-index: 1;
   left: 50%;
   top: 50%;
-
   content: '';
   width: 50px;
   height: 50px;
   transform: translate(-50%, -50%) rotate(45deg);
   background: #0fafd4;
-  background: linear-gradient(
-    to bottom right,
-    transparent 0%,
-    transparent 50%,
-    #4484cf 50%,
-    #4484cf 100%
-  );
+    background: linear-gradient(
+	  to bottom right,
+	  rgba(68,132,207, 0) 50%,
+	  rgba(68,132,207, 0.6) 0%
+    );
   background: -webkit-linear-gradient(
     to bottom right,
     transparent 0%,
