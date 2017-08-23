@@ -489,14 +489,6 @@ p.quote {
   margin-bottom: 30px;
 }
 
-p.quote::before {
-  content: '&ldquo;';
-}
-
-p.quote::after {
-  content: '&rdquo;';
-}
-
 p.author {
   text-align: right;
 }
