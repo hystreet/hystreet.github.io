@@ -951,11 +951,12 @@ body {
 
 .hero {
   position: relative;
-  background-image: url(#####);
+  background: #0fafd4;
+  background: -webkit-linear-gradient(#0fafd4, #4484cf);		
+  background: -o-linear-gradient(#0fafd4, #4484cf);		
+  background: -moz-linear-gradient(#0fafd4, #4484cf);		
+  background: linear-gradient(#0fafd4, #4484cf);		
 
-  &:before {
-       background: -webkit-linear-gradient(#0fafd4, #4484cf);
-       opacity: .6;
 }
   
 .hero .banner__arrow {
