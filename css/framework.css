@@ -143,13 +143,22 @@ select {
 }
 
 .quote-marks::before {
-  content: "lorem";
-  display: table;
+    content: open-quote;
+    display: table;
+    font-size: 180px;
+    font-family: none;
+    position: relative;
+    line-height: 0px;
 }
 
 .quote-marks::after {
-  content: "ipsum";
-  display: table;
+    content: open-quote;
+    display: table;
+    font-size: 180px;
+    font-family: none;
+    position: relative;
+    line-height: 0px;
+    float: right;
 }
 
 .row.collapse > .column,
