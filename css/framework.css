@@ -143,12 +143,12 @@ select {
 }
 
 .quote-marks::before {
-  content: "lorem"
+  content: "lorem";
   display: table;
 }
 
 .quote-marks::after {
-  content: "ipsum"
+  content: "ipsum";
   display: table;
 }
 
