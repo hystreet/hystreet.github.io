@@ -950,7 +950,7 @@ body {
 
 .hero {
   position: relative;
-  background: url("http://media.istockphoto.com/photos/abstract-background-picture-id590032928?s=2048x2048");
+  background: url("/images/hero-hex-bg.jpg");
   background-size: cover;
 
 }
