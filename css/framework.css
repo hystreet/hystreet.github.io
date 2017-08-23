@@ -146,19 +146,21 @@ select {
     content: open-quote;
     display: table;
     font-size: 180px;
-    font-family: none;
+    font-family: century-gothic, sans-serif;
     position: relative;
     line-height: 0px;
+    margin-left: 100px
 }
 
 .quote-marks::after {
     content: close-quote;
     display: table;
     font-size: 180px;
-    font-family: none;
+    font-family: century-gothic, sans-serif;
     position: relative;
     line-height: 0px;
     float: right;
+    margin-right: 100px
 }
 
 .row.collapse > .column,
