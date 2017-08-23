@@ -141,6 +141,17 @@ select {
 .row:after {
   clear: both;
 }
+
+.quote-marks::before {
+  content: "lorem"
+  display: table;
+}
+
+.quote-marks::after {
+  content: "ipsum"
+  display: table;
+}
+
 .row.collapse > .column,
 .row.collapse > .columns {
   padding-left: 0;
