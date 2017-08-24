@@ -210,6 +210,11 @@ h4 {
   background-size: cover;
 }
 
+.bg-team {
+  background: url(../images/team-bg.jpg.jpg) center center no-repeat;
+  background-size: cover;
+}
+
 /*header */
 .top-bar .name h1 img {
   display: inline;
