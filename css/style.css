@@ -967,6 +967,12 @@ body {
 
 }
 
+.about-hero {
+  position: relative;
+  background: none;
+  overflow: hidden;
+}
+
 .hero::before {
   content: '';
   position: absolute;
@@ -1077,6 +1083,7 @@ body {
 
 .vid-about-us {
 	width: 100%;
-	bottom: 0;
-	position:absolute;
+	top: 50%;
+	position: relative;
+	transform: translateY(-50%)
 }
