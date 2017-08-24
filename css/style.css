@@ -424,6 +424,7 @@ p i {
 }
 .member img {
   margin-bottom: 25px;
+  max-width: 251px;
 }
 .member h3 {
   margin-bottom: 0;
