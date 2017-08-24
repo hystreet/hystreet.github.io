@@ -1059,3 +1059,24 @@ body {
 .contact-item a {
     display: block;
 }
+
+.vid-container-1 {
+	height: 100%;
+	width: 100%;
+	z-index: -1;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	display: flex;
+}
+
+.vid-container-2 {
+	width: 100%;
+	overflow: hidden;
+}
+
+.vid-about-us {
+	width: 100%;
+	bottom: 0;
+	position:absolute;
+}
