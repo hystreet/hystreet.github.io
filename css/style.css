@@ -1117,3 +1117,33 @@ body {
     border-style: solid;
     border-width: 0 3px 3px 0;
 }
+
+.getting-started__article:after {
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+    width: 3px;
+    height: 100%;
+    content: "";
+    background: #0fafd4;
+
+.getting-started__header:after {
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+    width: 26px;
+    height: 100%;
+    content: "";
+    background: #0fafd4;
+    /* height: 300%; */
+    top: 100%;
