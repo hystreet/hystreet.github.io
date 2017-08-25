@@ -1108,6 +1108,7 @@ body {
     -o-transform: translate(-50%, -4px) rotate(45deg);
     transform: translate(-50%, -4px) rotate(45deg);
     position: absolute;
+    top: 60%;
     bottom: 0px;
     left: 50%;
     content: "";
@@ -1120,7 +1121,7 @@ body {
 
 .getting-started__article:after {
     position: absolute;
-    top: 25%;
+    top: 60%;
     left: 50%;
     -webkit-transform: translateX(-50%);
     -moz-transform: translateX(-50%);
