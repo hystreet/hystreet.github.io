@@ -1120,6 +1120,10 @@ body {
 	z-index: -1;
 }
 
+.getting-started__article {
+	margin-top: 130px;
+}
+
 .getting-started__article:after {
     position: absolute;
     top: 340px;
