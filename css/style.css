@@ -1122,7 +1122,7 @@ body {
 
 .getting-started__article:after {
     position: absolute;
-    top: 43.7%;
+    top: 45%;
     left: 50%;
     -webkit-transform: translateX(-50%);
     -moz-transform: translateX(-50%);
@@ -1130,7 +1130,7 @@ body {
     -o-transform: translateX(-50%);
     transform: translateX(-50%);
     width: 3px;
-    height: 100%;
+    height: 157.2%;
     content: "";
     background: #0fafd4;
     z-index: -1;
