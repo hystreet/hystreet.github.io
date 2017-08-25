@@ -1137,30 +1137,30 @@ body {
 }
 
 .getting-started__wrap {
-    background: url(/images/gs-bg.png) no-repeat center;
-    background-size: 300px;
-    height: 314px;
+    background: url(/images/gs-bg@2x.png) no-repeat center;
+    background-size: 350px;
+    height: 410px;
 }
 
 .getting-started__wrap-right {
     background: url(/images/gs-bg@2x.png) no-repeat center;
-    background-size: 300px;
-    height: 314px;
+    background-size: 350px;
+    height: 410px;
 }
 
 .getting-started__wrap-right img {
-        margin-top: 30px;
+        margin-top: 55px;
 }
 
 .getting-started__wrap img {
-        margin-top: 30px;
+        margin-top: 55px;
 }
 
 .getting-started__wrap:after {
     position: absolute;
     top: 50%;
     left: 0;
-    width: 50%;
+    width: 18%;
     height: 3px;
     transform: translateY(-50%);
     content: "";
@@ -1173,7 +1173,7 @@ body {
     position: absolute;
     top: 50%;
     right: 0;
-    width: 50%;
+    width: 18%;
     height: 3px;
     transform: translateY(-50%);
     content: "";
