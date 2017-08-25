@@ -1143,7 +1143,7 @@ body {
 }
 
 .getting-started__wrap-right {
-    background: url(/images/gs-bg.png) no-repeat center;
+    background: url(/images/gs-bg@2x.png) no-repeat center;
     background-size: 300px;
     height: 314px;
 }
