@@ -1132,6 +1132,7 @@ body {
     height: 100%;
     content: "";
     background: #0fafd4;
+}
 
 .getting-started__header:after {
     position: absolute;
@@ -1148,3 +1149,4 @@ body {
     background: #0fafd4;
     /* height: 300%; */
     top: 100%;
+}
