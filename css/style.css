@@ -1116,11 +1116,13 @@ body {
 	border-color: #4fcead;
 	border-style: solid;
 	border-width: 0 3px 3px 0;
+	top:141.5%;
+	z-index: -1;
 }
 
 .getting-started__article:after {
     position: absolute;
-    top: 0;
+    top: 43.7%;
     left: 50%;
     -webkit-transform: translateX(-50%);
     -moz-transform: translateX(-50%);
@@ -1131,4 +1133,5 @@ body {
     height: 100%;
     content: "";
     background: #0fafd4;
+    z-index: -1;
 }
