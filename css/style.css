@@ -1136,6 +1136,26 @@ body {
     z-index: -1;
 }
 
+.getting-started__wrap {
+    background: url(/images/gs-bg.png) no-repeat center;
+    background-size: 300px;
+    height: 314px;
+}
+
+.getting-started__wrap-right {
+    background: url(/images/gs-bg.png) no-repeat center;
+    background-size: 300px;
+    height: 314px;
+}
+
+.getting-started__wrap-right img {
+        margin-top: 30px;
+}
+
+.getting-started__wrap img {
+        margin-top: 30px;
+}
+
 .getting-started__wrap:after {
     position: absolute;
     top: 50%;
