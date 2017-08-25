@@ -1148,3 +1148,16 @@ body {
     background: #0fafd4;
     z-index: -1;
 }
+
+.getting-started__wrap-right:after {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    width: 50%;
+    height: 3px;
+    transform: translateY(-50%);
+    content: "";
+    display: block;
+    background: #0fafd4;
+    z-index: -1;
+}
