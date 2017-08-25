@@ -1120,7 +1120,7 @@ body {
 
 .getting-started__article:after {
     position: absolute;
-    top: 0px;
+    top: 25%;
     left: 50%;
     -webkit-transform: translateX(-50%);
     -moz-transform: translateX(-50%);
