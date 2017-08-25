@@ -1135,3 +1135,19 @@ body {
     background: #0fafd4;
     z-index: -1;
 }
+
+.getting-started__wrap:after {
+    position: absolute;
+    top: 50%;
+    right: 100%;
+    width: 100%;
+    height: 3px;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    content: "";
+    display: block;
+    background: #0fafd4;
+}
