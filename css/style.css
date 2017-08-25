@@ -1130,7 +1130,7 @@ body {
     -o-transform: translateX(-50%);
     transform: translateX(-50%);
     width: 3px;
-    height: 157.2%;
+    height: 200%;
     content: "";
     background: #0fafd4;
     z-index: -1;
