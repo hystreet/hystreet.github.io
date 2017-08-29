@@ -1063,6 +1063,7 @@ body {
 
 .fb-icon {
   max-height: 100px;
+  margin-bottom: 20px;
 }
 .contact-container {
     display: flex;
