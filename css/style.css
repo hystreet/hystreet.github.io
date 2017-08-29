@@ -215,6 +215,11 @@ h4 {
   background-size: cover;
 }
 
+.bg-features-bottom {
+  background: url(../images/features-benefits-bg.jpg) center center no-repeat;
+  background-size: cover;
+}
+
 /*header */
 .top-bar .name h1 img {
   display: inline;
