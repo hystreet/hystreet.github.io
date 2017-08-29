@@ -969,7 +969,10 @@ body {
   position: relative;
   background: url("/images/hero-hex-bg.jpg");
   background-size: cover;
+}
 
+.hero .button {
+	font-size: 24px;
 }
 
 .about-hero {
