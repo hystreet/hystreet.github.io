@@ -216,7 +216,7 @@ h4 {
 }
 
 .bg-features-bottom {
-  background: url(../images/features-benefits-bg.jpg) center center no-repeat;
+  background: url(/images/features-benefits-bg.png) center center no-repeat;
   background-size: cover;
 }
 
