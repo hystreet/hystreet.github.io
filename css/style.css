@@ -211,12 +211,12 @@ h4 {
 }
 
 .bg-gs-bottom {
-  background: url(../images/gs-bottom-bg-2.jpg) center center no-repeat;
+  background: url(../images/gs-bottom-bg-3.jpg) center center no-repeat;
   background-size: cover;
 }
 
 .bg-features-bottom {
-  background: url(/images/features-benefits-bg.png) center center no-repeat;
+  background: url(/images/features-benefits-bg-smaller-2.jpg) center center no-repeat;
   background-size: cover;
 }
 
