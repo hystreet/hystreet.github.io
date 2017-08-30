@@ -190,7 +190,7 @@ h4 {
 }
 
 .bg-2 {
-  background: url(../images/testimonial-background-blue.jpg) center center
+  background: url(../images/testimonial-background-blue-2.jpg) center center
     no-repeat;
   background-size: cover;
 }
@@ -217,6 +217,11 @@ h4 {
 
 .bg-features-bottom {
   background: url(/images/features-benefits-bg-smaller-2.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+.bg-team {
+  background: url(/images/team-bg-3.jpg) center center no-repeat;
   background-size: cover;
 }
 
