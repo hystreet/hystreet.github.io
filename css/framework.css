@@ -166,6 +166,17 @@ select {
   margin-right: 100px;
 }
 
+@media screen and (max-width: 550px) {
+
+.quote-marks::before {
+  margin-top: 50px; 
+}
+
+.quote-marks::after {
+  margin-top: 50px;
+}
+  
+  
 .row.collapse > .column,
 .row.collapse > .columns {
   padding-left: 0;
