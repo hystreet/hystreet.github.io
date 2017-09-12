@@ -663,13 +663,6 @@ select {
     padding-right: 0.9375rem;
     float: left;
   }
-
-@media screen and (max-width: 1030px) {
-    .column,
-  .columns {
-    float: none;
-  }
-}
   
   .medium-1 {
     width: 8.33333%;
@@ -7553,4 +7546,11 @@ th.hide-for-touch {
 
 .video-links {
   font-size: 1.25rem;
+}
+
+@media screen and (max-width: 1030px) {
+    .column,
+  .columns {
+    float: none;
+  }
 }
