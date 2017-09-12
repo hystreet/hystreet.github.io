@@ -664,6 +664,13 @@ select {
     float: left;
   }
 
+@media screen and (max-width: 1030px) {
+    .column,
+  .columns {
+    float: none;
+  }
+}
+  
   .medium-1 {
     width: 8.33333%;
   }
