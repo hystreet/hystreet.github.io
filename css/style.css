@@ -20,11 +20,11 @@ h2,
 h3,
 h4 {
   text-transform: none;
-  
+
 .homepage-h1 {
   text-transform: none !important;
   }
-  
+
 }
 
 .full {
@@ -1130,7 +1130,7 @@ body {
 	border-color: #0fafd4;
 	border-style: solid;
 	border-width: 0 3px 3px 0;
-	top: 2423px;
+	top: 2383px;
 	z-index: -1;
 }
 
@@ -1140,7 +1140,7 @@ body {
 
 .getting-started__article:after {
     position: absolute;
-    top: 340px;
+    top: 300px;
     left: 50%;
     -webkit-transform: translateX(-50%);
     -moz-transform: translateX(-50%);
@@ -1230,13 +1230,13 @@ body {
 .fb-agents {
 	margin-right: auto;
 	margin-left: auto;
-	max-width: 100% 
+	max-width: 100%
 }
 
 .fb-customers {
 	margin-right: auto;
 	margin-left: auto;
-	max-width: 100% 
+	max-width: 100%
 }
 
 .features-header {
