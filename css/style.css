@@ -1285,5 +1285,10 @@ body {
 
 .infusion-recaptcha {
   max-width: 75%;
-  margin: 0 auto;
+  margin: 20px auto;
+}
+
+.infusion-field input {
+  border: solid #ccc 1px;
+  border-radius: 10px;
 }
