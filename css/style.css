@@ -1277,3 +1277,7 @@ body {
     padding-top: 10px;
     margin-bottom: 30px;
 }
+
+.infusion-field {
+  max-width: 75%
+}
