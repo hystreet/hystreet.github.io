@@ -1279,5 +1279,6 @@ body {
 }
 
 .infusion-field {
-  max-width: 75%
+  max-width: 75%;
+  margin: 0 auto;
 }
