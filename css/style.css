@@ -271,6 +271,7 @@ p i {
   color: #666666;
   max-width: 75%;
   padding-bottom:12px;
+  margin: auto;
 }
 .special-title-full {
   font-family: "roboto", sans-serif;
