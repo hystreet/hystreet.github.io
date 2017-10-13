@@ -8,6 +8,11 @@ section_id: home
 <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
 <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/additional-methods.min.js"></script>
 <script>
+function onSubmit(event) {
+  console.log(jQuery('#inf_field_FirstName'))
+  event.preventDefault();
+}
+
 jQuery(document).ready(function() {
     jQuery(".infusion-form").validate({
         rules: {
@@ -37,7 +42,7 @@ jQuery(document).ready(function() {
 <div class="full signup-container">
 	<div class="row layout-text signup-form">
 			<h1 style="margin: 0 !important;">See it work</h1>
-      <form accept-charset="UTF-8" action="https://ge395.infusionsoft.com/app/form/process/66561ff95f456d79764ce76d5f916de3" class="infusion-form" id="inf_form_66561ff95f456d79764ce76d5f916de3" method="POST" onsubmit="return validateForm()">
+      <form accept-charset="UTF-8" action="https://ge395.infusionsoft.com/app/form/process/66561ff95f456d79764ce76d5f916de3" class="infusion-form" id="inf_form_66561ff95f456d79764ce76d5f916de3" method="POST" onsubmit="onSubmit()">
           <input name="inf_form_xid" type="hidden" value="66561ff95f456d79764ce76d5f916de3" />
           <input name="inf_form_name" type="hidden" value="Web Form submitted" />
           <input name="infusionsoft_version" type="hidden" value="1.68.0.110" />
