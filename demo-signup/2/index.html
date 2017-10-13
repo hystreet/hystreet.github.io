@@ -5,10 +5,19 @@ description: Interested in Hystreet? Just enter your details on our website, and
 section_id: home
 
 ---
+<script>
+function validateForm() {
+    var x = document.forms["myForm"]["fname"].value;
+    if (x == "") {
+        alert("Name must be filled out");
+        return false;
+    }
+}
+</script>
 <div class="full signup-container">
 	<div class="row layout-text signup-form">
 			<h1 style="margin: 0 !important;">See it work</h1>
-      <form accept-charset="UTF-8" action="https://ge395.infusionsoft.com/app/form/process/66561ff95f456d79764ce76d5f916de3" class="infusion-form" id="inf_form_66561ff95f456d79764ce76d5f916de3" method="POST">
+      <form accept-charset="UTF-8" action="https://ge395.infusionsoft.com/app/form/process/66561ff95f456d79764ce76d5f916de3" class="infusion-form" id="inf_form_66561ff95f456d79764ce76d5f916de3" method="POST" onsubmit="return validateForm()">
           <input name="inf_form_xid" type="hidden" value="66561ff95f456d79764ce76d5f916de3" />
           <input name="inf_form_name" type="hidden" value="Web Form submitted" />
           <input name="infusionsoft_version" type="hidden" value="1.68.0.110" />
@@ -37,7 +46,7 @@ section_id: home
               <select id="inf_custom_EnquiryType0" name="inf_custom_EnquiryType0" required><option value="">Enquiry Type *</option><option value="Estate Agent">Estate Agent</option><option value="Media">Media</option><option value="Investor">Investor</option><option value="Other">Other</option></select>
           </div>
           <div class="infusion-field">
-             <div class="infusion-recaptcha" data-theme="light" id="recaptcha_66561ff95f456d79764ce76d5f916de3" style="transform:scale(0.77);-webkit-transform:scale(0.77);transform-origin:0 0;-webkit-transform-origin:0 0;"></div> 
+             <div class="infusion-recaptcha" data-theme="light" id="recaptcha_66561ff95f456d79764ce76d5f916de3" style="transform:scale(0.77);-webkit-transform:scale(0.77);transform-origin:0 0;-webkit-transform-origin:0 0;"></div>
           </div>
           <div class="infusion-submit button">
               <a style="color: #FFFFFF;" type="submit">Submit</a>
