@@ -1293,3 +1293,17 @@ body {
   border: solid #ccc 1px;
   border-radius: 10px;
 }
+
+.signup-form {
+    background: white;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: 100px;
+    max-width: 50
+  }
+
+.signup-container {
+  background: #d4d4d4;
+  background-image: url(/images/hero-hex-bg-trans.png);
+  background-size: 100%;
+}
