@@ -1285,8 +1285,8 @@ body {
 }
 
 .infusion-recaptcha {
-  max-width: 75%;
-  margin: 20px auto;
+  /* max-width: 75%;
+  margin: 20px auto; */
 }
 
 .infusion-field input {
