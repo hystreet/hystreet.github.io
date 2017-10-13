@@ -169,13 +169,13 @@ select {
 @media screen and (max-width: 550px) {
 
 .quote-marks::before {
-  margin-top: 50px; 
+  margin-top: 50px;
 }
 
 .quote-marks::after {
   margin-top: 50px;
 }
-  
+
 }
 .row.collapse > .column,
 .row.collapse > .columns {
@@ -663,7 +663,7 @@ select {
     padding-right: 0.9375rem;
     float: left;
   }
-  
+
   .medium-1 {
     width: 8.33333%;
   }
@@ -1969,27 +1969,12 @@ select {
 
 button,
 .button {
-  border-style: solid;
-  border-width: 0px;
-  cursor: pointer;
-  font-weight: normal;
-  line-height: normal;
-  margin: 0 0 1.25rem;
-  position: relative;
-  text-decoration: none;
-  text-align: center;
-  -webkit-appearance: none;
-  -webkit-border-radius: 0;
-  display: inline-block;
-  padding-top: 1rem;
-  padding-right: 2rem;
-  padding-bottom: 1.0625rem;
-  padding-left: 2rem;
-  font-size: 1rem;
-  background-color: #00b991;
-  border-color: #eda703;
-  color: #333333;
-  transition: background-color 300ms ease-out;
+  text-transform: uppercase;
+  font-size: 14px;
+  padding: 12px 16px 12px;
+  background: #e63375;
+  color: #fff;
+  border-radius: 7.5px;
 }
 button:hover,
 button:focus,
