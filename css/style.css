@@ -1294,6 +1294,10 @@ body {
   border-radius: 10px;
 }
 
+.infusion-field label {
+  text-align: left;
+}
+
 .signup-form {
     background: white;
     padding-bottom: 20px;
