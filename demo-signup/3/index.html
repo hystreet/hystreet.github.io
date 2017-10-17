@@ -5,33 +5,6 @@ description: Interested in Hystreet? Just enter your details on our website, and
 section_id: home
 
 ---
-<script>
-jQuery(document).ready(function() {
-    jQuery(".infusion-form").validate({
-        rules: {
-            inf_field_FirstName: {
-                required: true
-            },
-            inf_field_Email: {
-                required: true,
-                email: true
-            },
-            inf_field_Phone1: {
-                required: true,
-                email: true
-            },
-            inf_field_LastName: {
-                required: true,
-                email: true
-            },
-            inf_field_Company: {
-                required: true,
-                email: true
-            }
-        }
-    });
-});
-</script>
 <div class="full signup-container">
 	<div class="row layout-text signup-form">
 			<h1 style="margin: 0 !important;">See it work</h1>
@@ -45,11 +18,11 @@ jQuery(document).ready(function() {
     </div>
     <div class="infusion-field">
         <label for="inf_field_LastName">Last Name *</label>
-        <input class="infusion-field-input-container" id="inf_field_LastName" name="inf_field_LastName" placeholder="Last Name *" type="text" />
+        <input class="infusion-field-input-container" id="inf_field_LastName" name="inf_field_LastName" placeholder="Last Name *" type="text"/>
     </div>
     <div class="infusion-field">
         <label for="inf_field_Phone1">Phone Number *</label>
-        <input class="infusion-field-input-container" id="inf_field_Phone1" name="inf_field_Phone1" placeholder="Phone Number *" type="text" />
+        <input class="infusion-field-input-container" id="inf_field_Phone1" name="inf_field_Phone1" placeholder="Phone Number *" type="text"/>
     </div>
     <div class="infusion-field">
         <label for="inf_field_Email">Email *</label>
@@ -63,14 +36,51 @@ jQuery(document).ready(function() {
         <label for="inf_custom_EnquiryType0">Enquiry Type *</label>
         <select id="inf_custom_EnquiryType0" name="inf_custom_EnquiryType0"><option value="">Enquiry Type *</option><option value="Estate Agent">Estate Agent</option><option value="Media">Media</option><option value="Investor">Investor</option><option value="Other">Other</option></select>
     </div>
+    <div class="infusion-field">
+      <input type="hidden" class="hiddenRecaptcha required" name="hiddenRecaptcha" id="hiddenRecaptcha">
+      <div class="g-recaptcha" data-sitekey="6LeYyjQUAAAAAMr9hXbJW4dKXV9YJY48LJ8JRRpL"></div>
+    </div>
     <div class="infusion-submit">
-        <button class="infusion-recaptcha" id="recaptcha_66561ff95f456d79764ce76d5f916de3" type="submit">Submit</button>
+        <button type="submit">Submit</button>
     </div>
 </form>
-<script type="text/javascript" src="https://ge395.infusionsoft.com/app/webTracking/getTrackingCode"></script>
-<script type="text/javascript" src="https://ge395.infusionsoft.com/resources/external/recaptcha/production/recaptcha.js"></script>
-<script src="https://www.google.com/recaptcha/api.js?onload=onloadInfusionRecaptchaCallback&render=explicit" async="async" defer="defer"></script>
+<script src="https://www.google.com/recaptcha/api.js" async defer ></script>
 	</div>
 </div>
 
 {% include testimonials.html bg="bg-2" %}
+
+<script>
+$(document).ready(function() {
+  $('#inf_form_66561ff95f456d79764ce76d5f916de3').validate({
+    ignore: [],
+    rules: {
+      inf_field_FirstName: {
+        required: true
+      },
+      inf_field_Email: {
+        required: true,
+        email: true
+      },
+      inf_field_Phone1: {
+        required: true
+      },
+      inf_field_LastName: {
+        required: true
+      },
+      inf_field_Company: {
+        required: true
+      },
+      "hiddenRecaptcha": {
+        required: function() {
+          if (grecaptcha.getResponse() == '') {
+            return true;
+          } else {
+            return false;
+          }
+        }
+      }
+    }
+  });
+});
+</script>
