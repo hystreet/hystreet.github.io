@@ -3249,7 +3249,7 @@ input[type="url"]:focus,
 textarea:focus {
   background: rgba(0, 0, 0, 0);
   border-color: white;
-  outline: none;
+  /* outline: none; */
 }
 input[type="text"][disabled],
 fieldset[disabled] input[type="text"],
