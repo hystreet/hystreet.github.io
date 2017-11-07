@@ -1975,9 +1975,20 @@ button,
   background: #e63375;
   color: #fff;
   border-radius: 7.5px;
-  border-style: solid;
+  /* border-style: solid; */
   border-color: #e63375;
 }
+
+@media only screen and (max-width: 400px) {
+  .cta-button {
+    margin-top:20px;
+  }
+}
+
+.cta-button {
+  margin-top:10px;
+}
+
 button:hover,
 button:focus,
 .button:hover,
