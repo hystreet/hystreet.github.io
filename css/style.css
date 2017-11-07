@@ -1323,11 +1323,11 @@ body {
 }
 @media only screen and (max-width: 400px) {
   .client-logos {
-    background-image: url(../images/hero-hex-bg-trans-smaller-portrait.png;
+    background-image: url(../images/hero-hex-bg-trans-smaller-portrait.png);
   }
 }
 @media only screen and (min-width: 400px) {
 .client-logos {
-  background-image: url(../images/hero-hex-bg-trans-smaller.png;
+  background-image: url(../images/hero-hex-bg-trans-smaller.png);
 }
 }
