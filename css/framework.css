@@ -1984,11 +1984,11 @@ button,
     margin-top:20px;
   }
 }
-
+@media only screen and (min-width: 400px) {
 .cta-button {
   margin-top:10px;
 }
-
+}
 button:hover,
 button:focus,
 .button:hover,
