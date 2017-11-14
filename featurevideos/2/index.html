@@ -22,7 +22,19 @@ section_id: home
 <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/854558973/?label=bkqkCOHf43QQ_ZG-lwM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
+<script type="text/javascript">
+  jQuery(document).ready(function() {
 
+    Function getUrlVar(key){
+      var result = new RegExp(key + "=([^&]*)", "i").exec(window.location.search);
+      return result && result[1] || "";
+    }
+
+    jQuery('#firstname').val(decodeURIComponent(getUrlVar('firstName')));
+    jQuery('#lastname').val(decodeURIComponent(getUrlVar('lastName')));
+    jQuery('#emailAddress').val(decodeURIComponent(getUrlVar('emailAddress')));
+  });
+</script>
 <div class='full'>
   <div class='row text-center'>
     <div class='special-title centered-text-actual'>
@@ -200,19 +212,7 @@ section_id: home
 
 {% include testimonials.html bg="bg-2" %}
 
-<script type="text/javascript">
-  jQuery(document).ready(function() {
 
-    Function getUrlVar(key){
-      var result = new RegExp(key + "=([^&]*)", "i").exec(window.location.search);
-      return result && result[1] || "";
-    }
-
-    jQuery('#firstname').val(decodeURIComponent(getUrlVar('firstName')));
-    jQuery('#lastname').val(decodeURIComponent(getUrlVar('lastName')));
-    jQuery('#emailAddress').val(decodeURIComponent(getUrlVar('emailAddress')));
-  });
-</script>
 
 <script>
   $(document).ready(function() {
