@@ -515,6 +515,10 @@ p.author {
   text-align: right;
 }
 
+p.author a {
+  color: #FFF;
+}
+
 p.nav-control {
   margin: 80px 0 20px;
 }
