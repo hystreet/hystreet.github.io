@@ -515,7 +515,7 @@ p.author {
   text-align: right;
 }
 
-p.author a {
+.author a {
   color: #FFF;
 }
 
