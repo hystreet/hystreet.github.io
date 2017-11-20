@@ -980,11 +980,10 @@ body {
   background: url("/images/hero-hex-bg-smaller-2.jpg");
   background-size: cover;
 }
-/*
+
 .hero .button {
-	font-size: 24px;
-}
-*/
+	font-size: 1.25rem;
+
 .about-hero {
   position: relative;
   background: none;
