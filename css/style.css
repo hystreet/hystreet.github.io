@@ -1216,10 +1216,14 @@ body {
 .getting-started__wrap:after {
 	display: none;
 }
+.getting-started__wrap {
+	display: none;
+}
 
 .getting-started__wrap-right:after {
 	display: none;
 }
+
 }
 
 .fb-columns {
