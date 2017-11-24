@@ -32,13 +32,13 @@ h4 {
   background-size: cover;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 700px) {
 .whys-bg {
     background:none;
   }
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 700px) {
 .whys-bg {
     background:url(/images/whys-bg-3.jpg) no-repeat center;;
   }
