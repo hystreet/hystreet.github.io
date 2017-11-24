@@ -5563,7 +5563,7 @@ meta.foundation-mq-topbar {
     clear: both;
   }
   .top-bar .toggle-topbar {
-    display: none;
+    /* display: none; */
   }
   .top-bar .title-area {
     float: left;
