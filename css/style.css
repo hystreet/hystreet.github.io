@@ -1219,7 +1219,9 @@ body {
 .getting-started__wrap {
 	display: none;
 }
-
+.getting-started__wrap-right {
+	display: none;
+}
 .getting-started__wrap-right:after {
 	display: none;
 }
