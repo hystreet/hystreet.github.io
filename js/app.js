@@ -67,6 +67,12 @@ $(document).foundation();
       return false;
     });
 
-
+    // Dirty, nasty, horrible hack for menu dropdown wider than foundation allows us
+    $('.top-bar .toggle-topbar').on('click', function() {
+      // If width is less than 967px and more than 642px
+      if(window.innerWidth > 642 && window.innerWidth < 967) {
+        $('.top-bar').toggleClass('expanded');
+      }
+    });
   });
 })(jQuery);
