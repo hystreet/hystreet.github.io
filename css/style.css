@@ -1204,6 +1204,13 @@ body {
     z-index: -1;
 }
 
+.getting-started-content-wrap {
+  height: 500px;
+}
+.getting-started-content {
+  margin-top: 80px;
+}
+
 @media only screen and (max-width: 1030px) {
 	.getting-started:after {
 	display: none;
@@ -1225,7 +1232,12 @@ body {
 .getting-started__wrap-right:after {
 	display: none;
 }
-
+.getting-started-content-wrap {
+  height: auto
+}
+.getting-started-content {
+  margin-top: 0px;
+}
 }
 
 .fb-columns {
