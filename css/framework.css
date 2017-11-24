@@ -663,6 +663,10 @@ select {
     padding-right: 0.9375rem;
     float: left;
   }
+  .medium-0 {
+    width: 0%;
+    display: none;
+  }
 
   .medium-1 {
     width: 8.33333%;
