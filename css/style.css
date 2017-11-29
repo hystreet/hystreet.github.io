@@ -32,7 +32,7 @@ h4 {
   background-size: cover;
 }
 
-@media screen and (max-width 642px) {
+@media screen and (max-width: 642px) {
   .hero .button {
     margin: 0 auto 10px;
     display: block;
