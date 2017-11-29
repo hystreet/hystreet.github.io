@@ -34,7 +34,9 @@ h4 {
 
 @media screen and (max-width 642px) {
   .hero .button {
-    margin: 0px auto 20px;
+    margin: 0 auto 10px;
+    display: block;
+    max-width: 131px;
   }
 }
 
