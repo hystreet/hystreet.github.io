@@ -32,6 +32,12 @@ h4 {
   background-size: cover;
 }
 
+@media screen and (max-width 642px) {
+  .hero button {
+    margin: 0 auto 20px;
+  }
+}
+
 @media screen and (max-width: 1026px) {
 .whys-bg {
     background:none;
@@ -982,7 +988,7 @@ body {
 }
 
 .hero .button {
-	font-size: 1.25rem;
+
 }
 .about-hero {
   position: relative;
