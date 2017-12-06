@@ -110,7 +110,7 @@ h4 {
   margin: 10px auto;
 }
 
-.centered-text ul {
+.centered-text ul, .centered-text ol {
   margin: 10px auto;
 }
 
@@ -287,12 +287,21 @@ p i {
   color: #666666;
   padding-bottom:12px;
 }
-.special-title ul {
+.special-title ul, .special-title ol {
   font-family: "roboto", sans-serif;
   font-size: 1.125rem;
   color: #666666;
   max-width: 75%;
 }
+
+.special-title ul ul,
+.special-title ul ol,
+.special-title ol ul,
+.special-title ol ol {
+  list-style-type: lower-alpha;
+}
+
+
 .contact-text {
     font-family: "roboto", sans-serif;
     font-size: 1.125rem;
@@ -306,6 +315,11 @@ p i {
   height: 5px;
   margin: 0 auto;
   border-bottom: 1px solid #0fafd4;
+}
+
+.icon {
+  /* Position relative for icons used inside to be centered using absolute */
+  position: relative;
 }
 
 /*icon-text */
@@ -511,12 +525,18 @@ p i {
 
 /*testimonials */
 p.quote {
+  padding: 15px;
   border: 1px solid rgba(255, 255, 255, 0.4);
-  padding: 20px 50px;
   font-family: "roboto", sans-serif;
   font-style: italic;
   font-size: 18px;
   margin-bottom: 30px;
+}
+
+@media screen and (min-width: 967px) {
+  p.quote {
+    padding: 20px 50px;
+  }
 }
 
 p.author {
@@ -1250,13 +1270,8 @@ body {
 }
 }
 
-.fb-columns {
-	width: 1000px;
-	max-width: 100%;
-	margin-right: auto;
-	margin-left: auto;
-	padding-right: 20px;
-	padding-left: 20px
+.fb-columns .columns {
+	max-width: 500px;
 }
 
 .fb-agents {
@@ -1341,6 +1356,17 @@ body {
   background: #d4d4d4;
   background-image: url(/images/hero-hex-bg-trans.png);
   background-size: 100%;
+}
+
+
+.logo-image {
+  max-width: 110px;
+}
+
+@media screen and (min-width: 1026px) {
+  .logo-image {
+    max-width: 140px;
+  }
 }
 
 @media screen and (max-width: 910px) {
