@@ -1141,10 +1141,19 @@ body {
 }
 
 .vid-about-us {
-	width: 100%;
+	min-width: 100%;
+  min-height: 100%;
 	top: 50%;
-	position: relative;
-	transform: translateY(-50%)
+  left: 50%;
+  position: absolute;
+	transform: translate(-50%, -50%);
+}
+
+@media screen and (min-width: 1112px) {
+  .vid-about-us {
+  	min-width: initial;
+    width: 100%;
+  }
 }
 
 .getting-started:after {
