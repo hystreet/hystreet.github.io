@@ -1270,8 +1270,15 @@ body {
 }
 }
 
-.fb-columns .columns {
+.fb-columns {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.fb-columns .fb-column {
 	max-width: 500px;
+  margin: 0 15px;
 }
 
 .fb-agents {
