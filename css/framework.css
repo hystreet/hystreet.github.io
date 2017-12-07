@@ -5959,6 +5959,17 @@ a:hover,
 a:focus {
   color: #e63375;
 }
+
+.hero a {
+  color: #FFF;
+  text-decoration: none;
+  line-height: inherit;
+}
+
+.hero a:hover,
+.hero a:focus {
+  color: #e63375;
+}
 a img {
   border: none;
 }
