@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Why estate agent's profits are down"
-date:   2017-08-10 15:37:00 +0800
+title:  "Are You An Estate Agent Heading For Failure?"
+date:   2017-08-16 15:37:00 +0800
 author: Dan Reasons
 ---
 
