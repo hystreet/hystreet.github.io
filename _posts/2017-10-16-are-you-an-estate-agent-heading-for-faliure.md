@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Are You An Estate Agent Heading For Failure?"
-date:   2017-08-16 15:37:00 +0800
+date:   2017-10-16 15:37:00 +0800
 author: Dan Reasons
 ---
 
