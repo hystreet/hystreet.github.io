@@ -834,6 +834,12 @@ ul.info i:hover {
 .post {
   margin: 0 0 60px;
 }
+
+.post img {
+    margin:0 auto !important;
+    display: block !important;
+}
+
 .post .info,
 .post .content {
   margin-left: 110px;
