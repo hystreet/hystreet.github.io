@@ -5,7 +5,7 @@ date:   2017-08-08 15:37:00 +0800
 author: Dan Reasons
 ---
 
-![computers]({{site.url}}/images/blog-people.jpg)
+![computers]({{site.url}}/images/20170808-blog.png)
 
 High Street Agents now have the capacity to be packing some serious heat and Online Agents should be worried about it.
 

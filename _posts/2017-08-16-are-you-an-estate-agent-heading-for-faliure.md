@@ -5,7 +5,7 @@ date:   2017-08-16 15:37:00 +0800
 author: Dan Reasons
 ---
 
-![computers]({{site.url}}/images/blog-people.jpg)
+![computers]({{site.url}}/images/20170816-blog.jpg)
 
 I do not know anything except I do not want to become a dinosaur!
 

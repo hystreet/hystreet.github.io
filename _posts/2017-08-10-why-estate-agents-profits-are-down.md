@@ -5,7 +5,7 @@ date:   2017-08-10 15:37:00 +0800
 author: Dan Reasons
 ---
 
-![computers]({{site.url}}/images/blog-people.jpg)
+![computers]({{site.url}}/images/20170810-blog.jpg)
 
 Earlier this year major players Countywide and Foxtons published their results and they were significantly down. I'll put a link to the article written by the Telegraph later on which gives the figures, but in this article we're going to look at why.
 
