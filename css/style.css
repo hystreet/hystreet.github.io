@@ -1018,7 +1018,7 @@ body {
 
 .hero {
   position: relative;
-  background: url('/images/hero-hex-bg-smaller-2.jpg');
+  /* background: url('/images/hero-hex-bg-smaller-2.jpg'); */
   background-size: cover;
   background-position: bottom;
 }
@@ -1055,7 +1055,7 @@ body {
   height: 100%;
   background: -webkit-linear-gradient(
     rgba(15, 175, 212, 1),
-    rgba(68, 132, 207, 0.5)
+    rgba(68, 132, 207, 1)
   );
 }
 
@@ -1086,11 +1086,11 @@ body {
   width: 50px;
   height: 50px;
   transform: translate(-50%, -50%) rotate(45deg);
-  background: #0fafd4;
-  background: linear-gradient(
+  background: rgba(68, 132, 207, 1);
+  /* background: linear-gradient(
     to bottom right,
-    rgba(68, 132, 207, 0) 50%,
-    rgba(68, 132, 207, 0.55) 0%
+    rgba(68, 132, 207, 1) 50%,
+    rgba(68, 132, 207, 1) 0%
   );
   background: -webkit-linear-gradient(
     to bottom right,
@@ -1112,7 +1112,7 @@ body {
     transparent 50%,
     #4484cf 50%,
     #4484cf 100%
-  );
+  ); */
 }
 
 .video-button__icon {
