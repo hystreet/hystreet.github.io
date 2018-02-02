@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to my weekly blog"
+title:  "Weekly blog for high street estate agents"
 date:   2018-02-02 10:54:18 +0800
 author: Awais Ahmad
 ---
