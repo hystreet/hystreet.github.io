@@ -5,7 +5,7 @@ date:   2018-02-02 10:54:18 +0800
 author: Awais Ahmad
 ---
 
-![computers]({{site.url}}/images/20180201 700 _DSF9334.jpg)
+![computers]({{site.url}/images/iStock-638149788 700.jpg)
 
 Welcome to my weekly blog, helping high street estate agents navigate the plethora of technology offerings and looking at what can actually help or what would hinder agents as we move through a technological revolution within our industry.
 
