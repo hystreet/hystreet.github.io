@@ -1975,7 +1975,7 @@ button,
   background: #e63375;
   color: #fff;
   border-radius: 7.5px;
-  /* border-style: solid; */
+  border-style: solid;
   border-color: #e63375;
 }
 
