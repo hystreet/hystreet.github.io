@@ -13,6 +13,6 @@
 - name: About Us
   path: about-us/
   section_id: about us
-  children:
-    - name: Blog
-      path: blog/
+- name: Blog
+  path: blog/
+  section_id: blog
