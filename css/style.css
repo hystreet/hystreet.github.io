@@ -1038,6 +1038,7 @@ body {
   position: relative;
   background: none;
   overflow: hidden;
+  height: 500px;
 }
 
 .about-hero::before {
