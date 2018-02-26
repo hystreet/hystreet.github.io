@@ -6,7 +6,7 @@
       </div>
     {% for client in site.data.clients %}
       <div class='small-12 large-15 columns'>
-        <img style="height: 80px; margin:10px 0px" src='{{site.url}}/images/{{client.image}}'>
+        <img style="height: 80px; margin:10px 0px" src='{{site.url}}/images/{{client.image}}' alt='{{client.alt}}'>
       </div>
     {% endfor %}
   </div>
