@@ -91,3 +91,17 @@ jobs:
                     if [ "${CIRCLE_BRANCH}" == "master" ]; then
                         aws --region eu-west-1 s3 sync dist s3://hystreet-marketing/ --delete
                     fi
+
+workflows:
+    version: 2
+    # The build and deploy workflow
+    build_and_deploy:
+        jobs:
+            - build
+            - deploy:
+                requires:
+                    - build
+                filters:
+                    branches:
+                        only:
+                            - master
