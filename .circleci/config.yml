@@ -89,7 +89,7 @@ jobs:
                 name: Deploy to S3
                 command: |
                     if [ "${CIRCLE_BRANCH}" == "master" ]; then
-                        aws --region eu-west-1 s3 sync dist s3://hystreet-marketing/ --delete
+                        aws --region eu-west-1 s3 sync _site s3://hystreet-marketing/ --delete
                     fi
 
 workflows:
