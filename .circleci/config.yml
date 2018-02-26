@@ -50,9 +50,9 @@ jobs:
             bundle exec jekyll b --verbose
             
       # run html-proofer
-      # - run:
-      #     name: run html-proofer
-      #     command: bundle exec htmlproofer ./_site --check-html --disable-external
+      - run:
+          name: run html-proofer
+          command: bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external --directory_index_file index.html
 
       # collect reports
       - store_test_results:
