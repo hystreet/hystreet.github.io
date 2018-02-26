@@ -47,9 +47,7 @@ jobs:
             mkdir /tmp/test-results
             TEST_FILES="$(circleci tests glob "spec/**/*_spec.rb" | circleci tests split --split-by=timings)"
             
-            mkdir /tmp/jekyll_out
-            CIRCLE_ARTIFACTS="/tmp/jekyll_out"
-            bundle exec jekyll b -d $CIRCLE_ARTIFACTS
+            bundle exec jekyll b --verbose
             
 
       # collect reports
