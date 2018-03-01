@@ -96,7 +96,7 @@ content_ids: ['0003'],
 content_type: 'aboutus'
 });
 </script>
-<div class="full about-hero" style="background: none";>
+<div class="about-hero" style="background: none;">
 <div class="vid-container-1">
 	<div style="vid-container-2">
 		<video src="/images/about-bg.mp4" autoplay="" loop="" muted="" class="vid-about-us">			</video>
@@ -160,7 +160,7 @@ content_type: 'aboutus'
       {% for member in page.members %}
         <div class='medium-12 large-4 columns'>
           <div class='member layout-text {{active_class}}'>
-            <img src='{{site.url}}/images/{{member.image}}'>
+            <img src='{{site.url}}/images/{{member.image}}' alt='{{member.name}}'>
             <h3>{{member.name}}</h3>
             <p class='position'>{{member.position}}</p>
           </div>

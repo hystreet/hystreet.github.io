@@ -8,7 +8,7 @@ jobs:
     docker:
       # specify the version you desire here
        - image: circleci/ruby:2.4.1-node-browsers
-      
+
       # Specify service dependencies here if necessary
       # CircleCI maintains a library of pre-built images
       # documented at https://circleci.com/docs/2.0/circleci-images/
@@ -35,7 +35,7 @@ jobs:
           paths:
             - ./vendor/bundle
           key: v1-dependencies-{{ checksum "Gemfile.lock" }}
-        
+
       # Database setup
       # - run: bundle exec rake db:create
       # - run: bundle exec rake db:schema:load
@@ -46,9 +46,9 @@ jobs:
           command: |
             mkdir /tmp/test-results
             TEST_FILES="$(circleci tests glob "spec/**/*_spec.rb" | circleci tests split --split-by=timings)"
-            
-            bundle exec jekyll b --verbose
-            
+
+            bundle exec jekyll build --verbose
+
       # run html-proofer
       - run:
           name: run html-proofer
@@ -72,7 +72,7 @@ jobs:
             - run:
                 name: Show current branch
                 command: echo ${CIRCLE_BRANCH}
-           
+
             - checkout
 
         # Download and cache dependencies
@@ -81,7 +81,7 @@ jobs:
                 - v1-dependencies-{{ checksum "Gemfile.lock" }}
                 # fallback to using the latest cache if no exact match is found
                 - v1-dependencies-
-  
+
             - run:
                 name: install dependencies
                 command: |
@@ -97,8 +97,8 @@ jobs:
                 command: |
                   mkdir /tmp/test-results
                   TEST_FILES="$(circleci tests glob "spec/**/*_spec.rb" | circleci tests split --split-by=timings)"
-            
-                  bundle exec jekyll b --verbose
+
+                  bundle exec jekyll build --verbose
 
             #-------------------------------------------------
             # Install AWS cli
