@@ -160,7 +160,7 @@ content_type: 'aboutus'
       {% for member in page.members %}
         <div class='medium-12 large-4 columns'>
           <div class='member layout-text {{active_class}}'>
-            <img src='{{site.url}}/images/{{member.image}}'>
+            <img src='{{site.url}}/images/{{member.image}}' alt='{{member.name}}'>
             <h3>{{member.name}}</h3>
             <p class='position'>{{member.position}}</p>
           </div>
