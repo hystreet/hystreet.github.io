@@ -3,37 +3,32 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <title>{{ page.title }}</title>
   <meta content='width=device-width, initial-scale=1.0' name='viewport'>
-  <meta name="theme-color" content="#0fafd4"/>
-  {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+  <meta name="theme-color" content="#0fafd4" /> {% if page.description %}
+  <meta name="description" content="{{ page.description }}">{% endif %}
   <link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
   <link rel="manifest" href="/manifest.json">
-
   <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
   <link href='/css/framework.css' rel='stylesheet'>
   <link href='/css/syntax.css' rel='stylesheet'>
   <link href='/css/style.css' rel='stylesheet'>
   <link href='/css/fontello.css' rel='stylesheet'>
-  <link href='/css/lity.min.css' rel='stylesheet'>
-
-  {% include scripts-header.html %}
+  <link href='/css/lity.min.css' rel='stylesheet'> {% include scripts-header.html %}
 </head>
-
-
 <form accept-charset="UTF-8" action="https://ge395.infusionsoft.com/app/form/process/66561ff95f456d79764ce76d5f916de3" class="infusion-form" id="inf_form_66561ff95f456d79764ce76d5f916de3" method="POST">
-    <input name="inf_form_xid" type="hidden" value="66561ff95f456d79764ce76d5f916de3" />
-    <input name="inf_form_name" type="hidden" value="Web Form submitted" />
-    <input name="infusionsoft_version" type="hidden" value="1.68.0.104" />
-    <div class="infusion-field">
-        <label for="inf_field_FirstName">First Name *</label>
-        <input class="infusion-field-input-container" id="inf_field_FirstName" name="inf_field_FirstName" type="text" />
-    </div>
-    <div class="infusion-field">
-        <label for="inf_field_Email">Email *</label>
-        <input class="infusion-field-input-container" id="inf_field_Email" name="inf_field_Email" type="text" />
-    </div>
-    <div class="infusion-submit">
-        <button class="infusion-recaptcha" id="recaptcha_66561ff95f456d79764ce76d5f916de3" type="submit">Submit</button>
-    </div>
+  <input name="inf_form_xid" type="hidden" value="66561ff95f456d79764ce76d5f916de3" />
+  <input name="inf_form_name" type="hidden" value="Web Form submitted" />
+  <input name="infusionsoft_version" type="hidden" value="1.68.0.104" />
+  <div class="infusion-field">
+    <label for="inf_field_FirstName">First Name *</label>
+    <input class="infusion-field-input-container" id="inf_field_FirstName" name="inf_field_FirstName" type="text" />
+  </div>
+  <div class="infusion-field">
+    <label for="inf_field_Email">Email *</label>
+    <input class="infusion-field-input-container" id="inf_field_Email" name="inf_field_Email" type="text" />
+  </div>
+  <div class="infusion-submit">
+    <button class="infusion-recaptcha" id="recaptcha_66561ff95f456d79764ce76d5f916de3" type="submit">Submit</button>
+  </div>
 </form>
 <script type="text/javascript" src="https://ge395.infusionsoft.com/app/webTracking/getTrackingCode"></script>
 <script type="text/javascript" src="https://ge395.infusionsoft.com/resources/external/recaptcha/production/recaptcha.js"></script>
