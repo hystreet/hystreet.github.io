@@ -1202,7 +1202,7 @@ body {
   border-color: #0fafd4;
   border-style: solid;
   border-width: 0 3px 3px 0;
-  top: 1984px;
+  top: 2334px;
   z-index: -1;
 }
 
@@ -1220,7 +1220,7 @@ body {
   -o-transform: translateX(-50%);
   transform: translateX(-50%);
   width: 3px;
-  height: 1700px;
+  height: 2050px;
   content: '';
   background: #0fafd4;
   z-index: -1;
