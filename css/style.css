@@ -840,6 +840,58 @@ ul.info i:hover {
 }
 
 /*blog */
+@media only screen and (max-width: 600px) {
+  .post {
+    margin: 60px auto;
+    max-width: 75%;
+  }
+
+  .post img {
+      margin:0 auto !important;
+      display: block !important;
+  }
+
+  .post .excerpt img {
+    margin:50px auto !important;
+    display: block !important;
+    width: auto;
+  }
+
+  .excerpt p {
+    font-family: 'roboto', sans-serif;
+    font-size: 1.125rem;
+    color: #666666;
+    padding-bottom: 12px;
+    margin: auto;
+  }
+
+  .excerpt .button {
+    margin-top: 25px;
+  }
+  .post .info,
+  .post .content {
+    margin-left: none !important;
+  }
+  .timestamp {
+    width: 80px;
+    border: 1px solid #0fafd4;
+    margin-right: 20px;
+  }
+}
+@media only screen and (min-width: 600px) {
+  .post .info,
+  .post .content {
+    margin-left: 110px;
+  }
+  .post .excerpt img {
+    margin:50px auto !important;
+    display: block !important;
+    max-width: 500px;
+  }
+}
+
+
+
 .post {
   margin: 60px auto;
   max-width: 75%;
@@ -850,12 +902,6 @@ ul.info i:hover {
     display: block !important;
 }
 
-.post .excerpt img {
-  margin:50px auto !important;
-  display: block !important;
-  max-width: 500px;
-}
-
 .excerpt p {
   font-family: 'roboto', sans-serif;
   font-size: 1.125rem;
@@ -864,14 +910,6 @@ ul.info i:hover {
   margin: auto;
 }
 
-.excerpt .button {
-  margin-top: 25px;
-}
-
-.post .info,
-.post .content {
-  margin-left: 110px;
-}
 .post .info h3 {
   font-size: 24px;
   margin-bottom: 5px;
@@ -940,10 +978,11 @@ ul.info i:hover {
 .pages ul a:hover {
   color: #00b991;
 }
-
+@media only screen and (min-width: 600px) {
 .timestamp {
   width: 80px;
   border: 1px solid #0fafd4;
+}
 }
 .timestamp .month {
   background: #0fafd4;
