@@ -5451,7 +5451,7 @@ meta.foundation-mq-topbar {
 }
 .top-bar-section ul li.active > a {
   background: white;
-  color: #00b991;
+  /* color: #00b991; */
 }
 .top-bar-section ul li.active > a:hover {
   background: #f2f2f2;
@@ -5611,10 +5611,9 @@ meta.foundation-mq-topbar {
     color: #666;
   }
   .top-bar-section li.active:not(.has-form) a:not(.button) {
-    padding: 0 20px;
+    padding: 0 14px;
     line-height: 100px;
-    color: #0fafd4;
-    background: white;
+    background: #0fafd4;
   }
   .top-bar-section li.active:not(.has-form) a:not(.button):hover {
     color: #666;

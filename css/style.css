@@ -841,7 +841,8 @@ ul.info i:hover {
 
 /*blog */
 .post {
-  margin: 0 0 60px;
+  margin: 60px auto;
+  max-width: 75%;
 }
 
 .post img {
@@ -850,9 +851,21 @@ ul.info i:hover {
 }
 
 .post .excerpt img {
-  margin:0 auto !important;
+  margin:50px auto !important;
   display: block !important;
   max-width: 500px;
+}
+
+.excerpt p {
+  font-family: 'roboto', sans-serif;
+  font-size: 1.125rem;
+  color: #666666;
+  padding-bottom: 12px;
+  margin: auto;
+}
+
+.excerpt .button {
+  margin-top: 25px;
 }
 
 .post .info,
