@@ -849,6 +849,12 @@ ul.info i:hover {
     display: block !important;
 }
 
+.post .excerpt img {
+  margin:0 auto !important;
+  display: block !important;
+  max-width: 500px;
+}
+
 .post .info,
 .post .content {
   margin-left: 110px;
