@@ -5,7 +5,7 @@ date:   2018-03-05 10:37:00 +0800
 author: Awais Ahmad
 ---
 
-![computers]({{site.url}}/images/sofia_winter.jpg)
+![computers]({{site.url}}/images/Sofia_winter.jpg)
 
 I’m sat in a cafe in the Bulgarian Capital of Sofia. It was -20°c this morning and over a foot of snow on the pathways so I have no sympathy for everyone back home in Blighty that have had a comparable dusting of the white stuff and experiencing merely -3°c!
 
