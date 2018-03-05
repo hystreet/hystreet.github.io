@@ -10,6 +10,7 @@ author: Awais Ahmad
 I’m sat in a cafe in the Bulgarian Capital of Sofia. It was -20°c this morning and over a foot of snow on the pathways so I have no sympathy for everyone back home in Blighty that have had a comparable dusting of the white stuff and experiencing merely -3°c!
 
 Over the last week despite the cold weather the team at Hystreet have been keeping the home fires burning our new team member Martin A.K.A “Mez” has been rattling through code and the speed at which features & releases are coming out is increasing again which is super.
+<!--more-->
 
 I have found myself travelling a lot recently; I have noticed in the tech world the idea of remote teams and people working from different places at different times is almost a given. For years techies have found effective ways to work with people in different countries and time zones as effectively or arguably more productively than if they were all sat in an office together.
 
