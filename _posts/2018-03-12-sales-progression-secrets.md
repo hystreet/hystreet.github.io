@@ -5,7 +5,7 @@ date:   2018-03-12 10:37:00 +0800
 author: Awais Ahmad
 ---
 
-![Bansko]({{site.url}}/images/Bansko.png)
+![Bansko]({{site.url}}/images/Bansko.jpg)
 
 This week has been a manic one, -20° with snow; moving and now having break of a couple of days snowboarding in Bansko, Bulgaria.
 
