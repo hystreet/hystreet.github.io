@@ -10,6 +10,7 @@ author: Awais Ahmad
 This week has been a manic one, -20° with snow; moving and now having break of a couple of days snowboarding in Bansko, Bulgaria.
 
 As I sit on my balcony looking at the looming mountains it strikes me that each of you that have emailed or gotten in contact run very different businesses. Your needs, objectives, and strategies all differ, and on that basis, I have no one size fits all solution – as I haven’t been in every situation or tried every tool out there.
+<!--more-->
 
 What I do know is that certain concepts are universal whether you operate a boutique one-branch operation in London, or a large network of branches across the country. Sales progression, after-sales, sales chasing or any of the other names by which it’s known is a very important part of our estate agency businesses.
 
