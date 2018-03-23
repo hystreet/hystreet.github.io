@@ -13,6 +13,8 @@ As I sit on my balcony looking at the looming mountains it strikes me that each 
 
 Sales progression, after-sales, sales chasing or any of the other names by which it’s known is a very important part of any estate agency.
 
+<!--more-->
+
 Rarely in our industry (but almost always in other sales environments) we hear terms like sales funnel, churn and velocity bandied about, but, what are they and how do they affect us?
 
 “We must work to reduce churn in our pipeline whilst maximising our sales velocity”.
@@ -24,9 +26,9 @@ The sales progression part of our business has two factors that can affect our p
 Fall throughsSpeed of getting a property to exchange & completion.
 So, any tools that help us optimise these two factors are to be taken seriously. For example; if an average high street agent charging £2,000 has 50 properties including sold and has 50% sold at any one time (i.e. 25 for sale and 25 SSTC) then their pipeline is £50,000. The velocity of this pipeline can make a huge difference. For example, if the agent takes 13 weeks to complete then bringing that time down by a couple of weeks would make the agent tens of thousands more in revenue annually.
 
-We currently use a piece of software called <a href="https://viewmychain.com/home>"Viewmychain</a> that allows us to monitor the progress of a sale. It not only looks at our property but the rest within the chain too. This helps reduce the chances of a full chain collapse as we get notified by the system when a property in the chain falls through. This means we know straight away and can keep the chain together, rather than wait for the agents in the chain to advise (sadly in many cases, agents never bother informing the whole chain when their property falls through). Secondly, it automatically notifies us when searches are applied for, and when searches come back, etc. – which saves us calling around to get milestone updates from solicitors. This bit is not 100% currently, however I must say it is improving. Hopefully in the future it will be able to get all the updates on all properties, but it still saves us time in its current state.
+We currently use a piece of software called <a href="https://viewmychain.com/home">Viewmychain</a> that allows us to monitor the progress of a sale. It not only looks at our property but the rest within the chain too. This helps reduce the chances of a full chain collapse as we get notified by the system when a property in the chain falls through. This means we know straight away and can keep the chain together, rather than wait for the agents in the chain to advise (sadly in many cases, agents never bother informing the whole chain when their property falls through). Secondly, it automatically notifies us when searches are applied for, and when searches come back, etc. – which saves us calling around to get milestone updates from solicitors. This bit is not 100% currently, however I must say it is improving. Hopefully in the future it will be able to get all the updates on all properties, but it still saves us time in its current state.
 
-Then, as all of you know, the most complicated and potentially risky stage comes: enquiries. <a href="https://viewmychain.com/home>"Viewmychain</a> doesn’t help much at this stage and it’s still very much down to the agent to liaise with solicitors and parties in the chain, but, let’s be honest, if it did that bit you wouldn’t need anyone doing sales progression at all!
+Then, as all of you know, the most complicated and potentially risky stage comes: enquiries. Viewmychain doesn’t help much at this stage and it’s still very much down to the agent to liaise with solicitors and parties in the chain, but, let’s be honest, if it did that bit you wouldn’t need anyone doing sales progression at all!
 
 Overall, it’s a good tool that is helping us reduce fall throughs via the early warning notifications and a tool that is reducing our time taken to complete. It’s a well-regarded system and the team are super helpful and quick to continually improve the software.  This is a part of my estate agency tech stack (more on this next week).
 
