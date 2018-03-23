@@ -10,10 +10,9 @@ author: Awais Ahmad
 This week has been a manic one, -20°C with snow and moving, I am now having a well-deserved break of a couple of days snowboarding in Bansko, Bulgaria.
 
 As I sit on my balcony looking at the looming mountains it strikes me that each of you that have emailed or gotten in contact recently all run very different businesses. Your needs, objectives, and strategies all differ, and on that basis, I have no one size fits all solution – as I haven’t been in every situation or tried every tool out there. What I do know is that certain concepts are universal whether you operate a boutique one-branch operation in London, or a large network of branches across the country.
-
+<!--more-->
 Sales progression, after-sales, sales chasing or any of the other names by which it’s known is a very important part of any estate agency.
 
-<!--more-->
 
 Rarely in our industry (but almost always in other sales environments) we hear terms like sales funnel, churn and velocity bandied about, but, what are they and how do they affect us?
 
