@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The most important Proptech for any estate agent"
-date:   2018-03-29 10:37:00 +0800
+date:   2018-03-29 12:37:00 +0800
 author: Awais Ahmad
 ---
 
