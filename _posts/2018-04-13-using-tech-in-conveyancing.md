@@ -22,7 +22,9 @@ I’m not even going to bore you with blockchain and the future as I honestly do
 In conclusion, conveyancing is important. For my estate agency business 5% of our turnover comes from conveyancing referrals, so for any estate agency it can be a great source of additional income if your partners are chosen on quality rather than purely financial gain.
 
 This week there were a lot of interesting articles about legislating the industry but what caught my eye was the following:
-http://www.propertyindustryeye.com/purplebricks-tells-government-to-go-further-in-reforms-and-compel-high-street-agents-to-publish-fees/
+
+<a href="http://www.propertyindustryeye.com/purplebricks-tells-government-to-go-further-in-reforms-and-compel-high-street-agents-to-publish-fees/">http://www.propertyindustryeye.com/purplebricks-tells-government-to-go-further-in-reforms-and-compel-high-street-agents-to-publish-fees/</a>
+
 Apart from the irony of a firm who very publically got caught out for not being transparent calling for more transparency, what interests me is how millions are spent by online agents to “commoditise” estate agency in the eyes of the public. As one of my clients said, “the longer we offer only one service, the easier it will be for onliners to compare apples and oranges and the average client to fall into the trap of thinking they will be saving thousands”.
 So, in response to Purplebricks’ obvious need to know what our fees are, I will go first. My agency’s hybrid service is £780+VAT, which £87 more than they charge. There no point discussing a high street fee unless they want to open an office and offer a comparable full, traditional, top-level high street service. If they do, then either of the Bruce brothers can email me and I will happily tell them what I charge for that too.
 Next week I will be talking about one of the oldest marketing tools for agents, and why it isn’t going anywhere soon…
