@@ -8,7 +8,7 @@ author: Awais Ahmad
 ![computers]({{site.url}}/images/Forsale-boards.jpg)
 
 So recently I heard about an agent who has decided against using boards to market his properties, apparently they are a pain to manage, unsightly and out of date in this modern era. This in my opinion is a prime example of a silly sod who wants to use the idea of technology and modern marketing as an excuse to justify his own laziness.
-<!-- more -->
+<!--more-->
 For sale boards are great even the young kids I saw utilising one of competitors boards during the period of snow testified to that. They told me these things make the best sledges, they are so fast on the snow. I nodded enthusiastically with a big grin on my face as these two young lads zipped down the golf course hills on sledges make from Correx printed bright green. But are these humble advertising boards still relevant?
 Over the years I have heard lots of excuses against having a for sale board. From security risks, I don’t want the neighbours to know, we don’t want people to knock on the door asking to take a look to its embarrassing to have a board up for ages if we don’t sell.  Most people would consider them all as valid reasons, but none of them outweighs the benefits when it comes to selling your property. We all know even now in age of iPads, Facebook and Instagram we still get buyers wanting to view because they saw the board. Various reports cite various numbers ranging from low single digits and apparently even as high as 50% as being the percentage of enquiries that originally came from having a board up. I personally think it only needs to bring one buyer to the table as you only need one buyer to sell.
 We all know most buyers will begin their property search online and so many sellers don’t consider there to be a need for a for sale board but I assure you there are still many valid reasons to have one. I will list a few:
@@ -24,7 +24,7 @@ So, take a long hard look at your boards and how you use them and invest in this
 
 For those of you that missed it, this news item really was interesting:
 
-https://www.estateagenttoday.co.uk/breaking-news/2018/4/housesimple-becomes-first-online-agency-to-completely-scrap-upfront-fees
+<a href="https://www.estateagenttoday.co.uk/breaking-news/2018/4/housesimple-becomes-first-online-agency-to-completely-scrap-upfront-fees">https://www.estateagenttoday.co.uk/breaking-news/2018/4/housesimple-becomes-first-online-agency-to-completely-scrap-upfront-fees</a>
 
 the standout bit for me was the many smug high street agents celebrating the demise of the upfront charging model (still less than 10% pf the market but growing), but what the clever clogs didn’t see was that these well-funded, tech driven estate agencies are now coming after the no sale no fee model which is over 90% of the overall market. Upfront charging is here to stay, the high tech driven agencies are here to stay, the question is, are the non tech driven, non-choice offering agencies here to stay?
 
