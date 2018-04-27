@@ -8,7 +8,7 @@ author: Awais Ahmad
 ![Blog]({{site.url}}/images/HR-Blog.jpg)
 
 This week we’ve been focussing on finalising some of the designs for version 2 of Hystreet, as part of an ongoing process I’ve been talking to our clients and working with Antonio (our user experience guru) to dig further into what we can do as a platform to ensure we keep our agents at the centre of our product.
-<!-- more -->
+<!--more-->
 This brought up an interesting response from one of our clients, he said Hystreet is making his agents’ lives easier and they are happier now that when they were using the old system. He felt the software we are building was helping him retain staff, it’s something that I can honestly say I had never considered but it got me thinking about staff retention and HR in estate agency today.
 
 Across all my businesses, in a career spanning 15 years in property, I have parted company with over 50 members of staff and to be honest it never gets easier. It’s the one thing I hate the most about being the “boss”. Don’t get me wrong, some of them really did deserve it and I had no guilt but the act and process itself is, and has always been, a ball ache I could do without.
