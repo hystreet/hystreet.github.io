@@ -8,7 +8,7 @@ author: Awais Ahmad
 ![Blog]({{site.url}}/images/feedback-blog.jpg)
 
 This week has been super busy. We’ve welcomed some new team members as we continue to improve and develop Hystreet to better serve our agents, and what better way to help agents by having more estate agents in the Hystreet team!
-<!-- more -->
+<!--more-->
 Jay Duffy joins us from Countrywide and he will be helping agents to explore and understand the best way to offer choice with Hystreet. The work and improvements continue as we try to build exactly what high street agents need, I must say its bloody hard work, but I love seeing our agents win their first instruction using the system, every time that happens it reinforces our drive to get all high street agents using our technology to thrive.
 
 In estate agency the term ‘feedback’ is used to describe the helpful information or criticism regarding a property from an individual, communicated to the agent and in turn the seller (or directly to the seller) who can then use that information to adjust and improve current and future state of the property in question.
