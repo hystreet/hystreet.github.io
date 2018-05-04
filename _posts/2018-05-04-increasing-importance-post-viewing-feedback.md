@@ -23,7 +23,7 @@ Good feedback also helps the agents to achieve a balance of power with certain s
 
 I saw this from Henry Pryor this week and I felt it was particularly interesting:
 
-http://www.propertyindustryeye.com/many-agents-frankly-deserve-to-go-the-way-of-humberts-says-housing-pundit/
+<a href="http://www.propertyindustryeye.com/many-agents-frankly-deserve-to-go-the-way-of-humberts-says-housing-pundit/">http://www.propertyindustryeye.com/many-agents-frankly-deserve-to-go-the-way-of-humberts-says-housing-pundit/</a>
 
 Though I think he is bang on in the case of many agents still stuck in the past refusing to change with the industry, I must stress there are equally a large amount of really smart, proactive and frankly pioneering agents out there. But I think I’m spoiled as I meet the most switched on agents with my work at Hystreet, all of our clients and even those considering our product have already demonstrated acceptance of the change in the industry and are making the best steps to evolve. These are interesting times.
 Next time I will be giving my thoughts around automation and its role in estate agency.
