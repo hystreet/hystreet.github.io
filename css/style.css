@@ -1537,3 +1537,9 @@ body {
   outline: none;
   background-color: #0a8cab;
 }
+
+.tc-indent-1,
+.tc-indent-2,
+.tc-indent-3 {
+ margin-left: 50px;
+}
